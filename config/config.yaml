@@ -1,0 +1,60 @@
+project:
+  name: "Multi-Agent Translation System"
+  version: "1.0.0"
+
+agents:
+  agent1:
+    skill_file: "skills/en_to_fr.md"
+    source_lang: "en"
+    target_lang: "fr"
+    name: "English to French Translator"
+  agent2:
+    skill_file: "skills/fr_to_he.md"
+    source_lang: "fr"
+    target_lang: "he"
+    name: "French to Hebrew Translator"
+  agent3:
+    skill_file: "skills/he_to_en.md"
+    source_lang: "he"
+    target_lang: "en"
+    name: "Hebrew to English Translator"
+
+input:
+  base_sentences_file: "data/base_sentences.txt"
+  min_words: 15
+  min_sentences: 2
+  error_rates: [0.0, 0.1, 0.25, 0.375, 0.5]
+  error_types:
+    - "character_swap"
+    - "character_deletion"
+    - "character_insertion"
+    - "character_replacement"
+
+analysis:
+  embedding_model: "sentence-transformers/all-MiniLM-L6-v2"
+  distance_metric: "cosine"
+  cache_embeddings: true
+
+visualization:
+  output_format: "png"
+  dpi: 300
+  figure_size: [12, 8]
+  style: "whitegrid"
+  color_palette: "steelblue"
+
+output:
+  results_dir: "results"
+  save_intermediates: true
+  save_format: "json"
+
+api:
+  provider: "anthropic"
+  model: "claude-3-5-sonnet-20241022"
+  max_retries: 3
+  timeout: 60
+  delay_between_requests: 1.0
+
+logging:
+  level: "INFO"
+  file: "logs/pipeline.log"
+  console: true

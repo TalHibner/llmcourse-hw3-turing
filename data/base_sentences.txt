@@ -1,0 +1,27 @@
+# Base Test Sentences for Translation Experiment
+# Each sentence must have at least 15 words
+# Word counts are indicated in parentheses
+
+The quick brown fox jumps over the lazy dog while carrying a large package through the forest. (17 words)
+
+Scientists have recently discovered a new species of deep sea creatures living near underwater volcanic vents in the Pacific Ocean. (21 words)
+
+Artificial intelligence and machine learning technologies are rapidly transforming how we work, communicate, and solve complex problems in modern society. (21 words)
+
+The ancient library contained thousands of manuscripts written in languages that scholars spent decades attempting to decipher and translate carefully. (21 words)
+
+Students from different countries collaborated on the research project, sharing their unique perspectives and cultural insights throughout the entire semester. (21 words)
+
+The weather forecast predicted heavy rainfall and strong winds for the coastal regions, prompting authorities to issue evacuation warnings yesterday. (20 words)
+
+Musicians performed a beautiful symphony that moved the audience to tears with its emotional melodies and powerful orchestral arrangements. (19 words)
+
+Engineers designed an innovative bridge structure that could withstand extreme weather conditions and heavy traffic loads for many decades. (19 words)
+
+The restaurant served delicious traditional dishes made from fresh local ingredients, prepared using recipes passed down through many generations. (19 words)
+
+Technology companies are investing heavily in renewable energy sources to reduce their carbon footprint and combat climate change effectively. (19 words)
+
+The marathon runner trained every single day for six months, gradually building endurance and speed to achieve her personal goals. (20 words)
+
+Historians uncovered fascinating evidence that changed our understanding of ancient civilizations and their remarkable technological achievements in construction. (18 words)
