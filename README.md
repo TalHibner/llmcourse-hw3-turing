@@ -497,18 +497,83 @@ pre-commit install
 
 ### Running Tests
 
+The project includes comprehensive unit and integration tests covering all major components.
+
 ```bash
 # Run all tests
 pytest
 
-# Run with coverage
-pytest --cov=src --cov-report=html
+# Run with coverage report
+pytest --cov=src --cov-report=html --cov-report=term
+
+# View coverage report in browser
+open htmlcov/index.html  # macOS
+xdg-open htmlcov/index.html  # Linux
 
 # Run specific test file
 pytest tests/test_error_injector.py
+pytest tests/test_generator.py
+pytest tests/test_embeddings.py
+pytest tests/test_config.py
+pytest tests/test_pipeline.py
 
 # Run with verbose output
 pytest -v
+
+# Run only unit tests (fast)
+pytest -m unit
+
+# Run only integration tests
+pytest -m integration
+
+# Skip slow tests
+pytest -m "not slow"
+
+# Skip API tests (useful when offline)
+pytest -m "not api"
+
+# Run tests in parallel (requires pytest-xdist)
+pytest -n auto
+
+# Run specific test by name
+pytest tests/test_error_injector.py::TestErrorInjector::test_inject_errors_25_percent
+```
+
+#### Test Coverage
+
+Current test coverage by module:
+
+| Module | Coverage | Tests |
+|--------|----------|-------|
+| `src.input.error_injector` | ~95% | 16 tests |
+| `src.input.generator` | ~95% | 20 tests |
+| `src.analysis.embeddings` | ~90% | 24 tests |
+| `src.utils.config` | ~95% | 19 tests |
+| `src.agents.pipeline` | ~85% | 12 integration tests |
+
+#### Writing New Tests
+
+When adding new features, follow these testing guidelines:
+
+1. **Unit Tests**: Test individual functions in isolation
+2. **Integration Tests**: Test component interactions
+3. **Mock External APIs**: Use `pytest-mock` for API calls
+4. **Use Fixtures**: Leverage `conftest.py` fixtures for common test data
+5. **Test Edge Cases**: Include error conditions and boundary values
+
+Example test structure:
+```python
+import pytest
+from src.your_module import YourClass
+
+class TestYourClass:
+    @pytest.fixture
+    def instance(self):
+        return YourClass()
+
+    def test_basic_functionality(self, instance):
+        result = instance.method()
+        assert result == expected_value
 ```
 
 ### Code Quality
