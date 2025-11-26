@@ -1,0 +1,422 @@
+[
+  {
+    "test_id": 1,
+    "error": "Agent agent1 failed after 3 attempts: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 2,
+    "error": "Agent agent1 failed after 3 attempts: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 3,
+    "error": "Agent agent1 failed after 3 attempts: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 4,
+    "error": "Agent agent1 failed after 3 attempts: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 5,
+    "error": "Agent agent1 failed after 3 attempts: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 6,
+    "error": "Agent agent1 failed after 3 attempts: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 7,
+    "error": "Agent agent1 failed after 3 attempts: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 8,
+    "error": "Agent agent1 failed after 3 attempts: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 9,
+    "error": "Agent agent1 failed after 3 attempts: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 10,
+    "error": "Agent agent1 failed after 3 attempts: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 11,
+    "error": "Agent agent1 failed after 3 attempts: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 12,
+    "error": "Agent agent1 failed after 3 attempts: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 13,
+    "error": "Agent agent1 failed after 3 attempts: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 14,
+    "error": "Agent agent1 failed after 3 attempts: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 15,
+    "error": "Agent agent1 failed after 3 attempts: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 16,
+    "error": "Agent agent1 failed after 3 attempts: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 17,
+    "error": "Agent agent1 failed after 3 attempts: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 18,
+    "error": "Agent agent1 failed after 3 attempts: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 19,
+    "error": "Agent agent1 failed after 3 attempts: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 20,
+    "error": "Agent agent1 failed after 3 attempts: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 21,
+    "error": "Agent agent1 failed after 3 attempts: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 22,
+    "error": "Agent agent1 failed after 3 attempts: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 23,
+    "error": "Agent agent1 failed after 3 attempts: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 24,
+    "error": "Agent agent1 failed after 3 attempts: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 25,
+    "error": "Agent agent1 failed after 3 attempts: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 26,
+    "error": "Agent agent1 failed after 3 attempts: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 27,
+    "error": "Agent agent1 failed after 3 attempts: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 28,
+    "error": "Agent agent1 failed after 3 attempts: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 29,
+    "error": "Agent agent1 failed after 3 attempts: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 30,
+    "error": "Agent agent1 failed after 3 attempts: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 31,
+    "error": "Agent agent1 failed after 3 attempts: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 32,
+    "error": "Agent agent1 failed after 3 attempts: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 33,
+    "error": "Agent agent1 failed after 3 attempts: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 34,
+    "error": "Agent agent1 failed after 3 attempts: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 35,
+    "error": "Agent agent1 failed after 3 attempts: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 36,
+    "error": "Agent agent1 failed after 3 attempts: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 37,
+    "error": "Agent agent1 failed after 3 attempts: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 38,
+    "error": "Agent agent1 failed after 3 attempts: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 39,
+    "error": "Agent agent1 failed after 3 attempts: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 40,
+    "error": "Agent agent1 failed after 3 attempts: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 41,
+    "error": "Agent agent1 failed after 3 attempts: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 42,
+    "error": "Agent agent1 failed after 3 attempts: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 43,
+    "error": "Agent agent1 failed after 3 attempts: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 44,
+    "error": "Agent agent1 failed after 3 attempts: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 45,
+    "error": "Agent agent1 failed after 3 attempts: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 46,
+    "error": "Agent agent1 failed after 3 attempts: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 47,
+    "error": "Agent agent1 failed after 3 attempts: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 48,
+    "error": "Agent agent1 failed after 3 attempts: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 49,
+    "error": "Agent agent1 failed after 3 attempts: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 50,
+    "error": "Agent agent1 failed after 3 attempts: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 51,
+    "error": "Agent agent1 failed after 3 attempts: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 52,
+    "error": "Agent agent1 failed after 3 attempts: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 53,
+    "error": "Agent agent1 failed after 3 attempts: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 54,
+    "error": "Agent agent1 failed after 3 attempts: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 55,
+    "error": "Agent agent1 failed after 3 attempts: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 56,
+    "error": "Agent agent1 failed after 3 attempts: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 57,
+    "error": "Agent agent1 failed after 3 attempts: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 58,
+    "error": "Agent agent1 failed after 3 attempts: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 59,
+    "error": "Agent agent1 failed after 3 attempts: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 60,
+    "error": "Agent agent1 failed after 3 attempts: \"Could not resolve authentication method. Expected either api_key or auth_token to be set. Or for one of the `X-Api-Key` or `Authorization` headers to be explicitly omitted\"",
+    "metadata": {
+      "success": false
+    }
+  }
+]

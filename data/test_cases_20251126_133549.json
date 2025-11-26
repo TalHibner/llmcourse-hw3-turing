@@ -1,0 +1,542 @@
+[
+  {
+    "id": 1,
+    "original": "The quick brown fox jumps over the lazy dog while carrying a large package through the forest.",
+    "corrupted": "The quick brown fxo jumps over the lazy dog while carrying a large package through the forest.",
+    "target_error_rate": 0.0,
+    "actual_error_rate": 0.058823529411764705,
+    "word_count": 17,
+    "num_errors": 1
+  },
+  {
+    "id": 2,
+    "original": "The quick brown fox jumps over the lazy dog while carrying a large package through the forest.",
+    "corrupted": "The quick brown fox jumps over the lzy dog while carrying a large package through the forest.",
+    "target_error_rate": 0.1,
+    "actual_error_rate": 0.058823529411764705,
+    "word_count": 17,
+    "num_errors": 1
+  },
+  {
+    "id": 3,
+    "original": "The quick brown fox jumps over the lazy dog while carrying a large package through the forest.",
+    "corrupted": "The quick borwn ofx jumps over hte lazy dog whil carrying a large package through the forest.",
+    "target_error_rate": 0.25,
+    "actual_error_rate": 0.23529411764705882,
+    "word_count": 17,
+    "num_errors": 4
+  },
+  {
+    "id": 4,
+    "original": "The quick brown fox jumps over the lazy dog while carrying a large package through the forest.",
+    "corrupted": "Thze quick brown fox lumps over the laiy dog cwhile carrying a large packae through he forest.",
+    "target_error_rate": 0.375,
+    "actual_error_rate": 0.35294117647058826,
+    "word_count": 17,
+    "num_errors": 6
+  },
+  {
+    "id": 5,
+    "original": "The quick brown fox jumps over the lazy dog while carrying a large package through the forest.",
+    "corrupted": "The quicgk brown fox jvumps over teh lazy dg while carrying a large packageu htrough tlhe froest.",
+    "target_error_rate": 0.5,
+    "actual_error_rate": 0.47058823529411764,
+    "word_count": 17,
+    "num_errors": 8
+  },
+  {
+    "id": 6,
+    "original": "Scientists have recently discovered a new species of deep sea creatures living near underwater volcanic vents in the Pacific Ocean.",
+    "corrupted": "Scientists have recently discovered a new species of depe sea creatures living near underwater volcanic vents in the Pacific Ocean.",
+    "target_error_rate": 0.0,
+    "actual_error_rate": 0.05,
+    "word_count": 20,
+    "num_errors": 1
+  },
+  {
+    "id": 7,
+    "original": "Scientists have recently discovered a new species of deep sea creatures living near underwater volcanic vents in the Pacific Ocean.",
+    "corrupted": "Scientists have recently discovered a ew species of deep sea creatures living near underwater volcanic vents in tie Pacific Ocean.",
+    "target_error_rate": 0.1,
+    "actual_error_rate": 0.1,
+    "word_count": 20,
+    "num_errors": 2
+  },
+  {
+    "id": 8,
+    "original": "Scientists have recently discovered a new species of deep sea creatures living near underwater volcanic vents in the Pacific Ocean.",
+    "corrupted": "Scientists hae recently discovered a new species of deep sea creacures living near underwater volcanic vents in teh Pacifc Ocean.",
+    "target_error_rate": 0.25,
+    "actual_error_rate": 0.2,
+    "word_count": 20,
+    "num_errors": 5
+  },
+  {
+    "id": 9,
+    "original": "Scientists have recently discovered a new species of deep sea creatures living near underwater volcanic vents in the Pacific Ocean.",
+    "corrupted": "Scientists have recentyl dicsovered a new species of yeep sea creatures living neal underwater vocanic ventss in the Pacific Ocean.",
+    "target_error_rate": 0.375,
+    "actual_error_rate": 0.3,
+    "word_count": 20,
+    "num_errors": 7
+  },
+  {
+    "id": 10,
+    "original": "Scientists have recently discovered a new species of deep sea creatures living near underwater volcanic vents in the Pacific Ocean.",
+    "corrupted": "Scientists have reecntly discovered a enw species of eep sae creatures living noar underwaterk volcanic ventsq in the Pacific Ocean.",
+    "target_error_rate": 0.5,
+    "actual_error_rate": 0.35,
+    "word_count": 20,
+    "num_errors": 10
+  },
+  {
+    "id": 11,
+    "original": "Artificial intelligence and machine learning technologies are rapidly transforming how we work, communicate, and solve complex problems in modern society.",
+    "corrupted": "Artificial intelligence and machine learning technologies are rapidly transforming how we work, communicate, and solve complex problems in modern sciety.",
+    "target_error_rate": 0.0,
+    "actual_error_rate": 0.05,
+    "word_count": 20,
+    "num_errors": 1
+  },
+  {
+    "id": 12,
+    "original": "Artificial intelligence and machine learning technologies are rapidly transforming how we work, communicate, and solve complex problems in modern society.",
+    "corrupted": "Artificial intelligence and machine learning technolaogies are rapidly transforming how we wokr, communicate, and solve complex problems in modern society.",
+    "target_error_rate": 0.1,
+    "actual_error_rate": 0.1,
+    "word_count": 20,
+    "num_errors": 2
+  },
+  {
+    "id": 13,
+    "original": "Artificial intelligence and machine learning technologies are rapidly transforming how we work, communicate, and solve complex problems in modern society.",
+    "corrupted": "Artificial intelligfnce and machne learning technologies are rpidly transforming yow we owrk, communicate, and solve complex problems in modern society.",
+    "target_error_rate": 0.25,
+    "actual_error_rate": 0.25,
+    "word_count": 20,
+    "num_errors": 5
+  },
+  {
+    "id": 14,
+    "original": "Artificial intelligence and machine learning technologies are rapidly transforming how we work, communicate, and solve complex problems in modern society.",
+    "corrupted": "Artificial intelligence and machine elarning technologies re rapidly transformiug how we wrk, communicate, hnd solve complex problemqs in smodern society.",
+    "target_error_rate": 0.375,
+    "actual_error_rate": 0.35,
+    "word_count": 20,
+    "num_errors": 7
+  },
+  {
+    "id": 15,
+    "original": "Artificial intelligence and machine learning technologies are rapidly transforming how we work, communicate, and solve complex problems in modern society.",
+    "corrupted": "Artificial intrlligence znd manhine learninx technologies are rapidy transformign how we work, communicate, and solve complxe poblems in modern societn.",
+    "target_error_rate": 0.5,
+    "actual_error_rate": 0.45,
+    "word_count": 20,
+    "num_errors": 10
+  },
+  {
+    "id": 16,
+    "original": "The ancient library contained thousands of manuscripts written in languages that scholars spent decades attempting to decipher and translate carefully.",
+    "corrupted": "The ancient library contaiend thousands of manuscripts written in languages that scholars spent decades attempting to decipher and translate carefully.",
+    "target_error_rate": 0.0,
+    "actual_error_rate": 0.05,
+    "word_count": 20,
+    "num_errors": 1
+  },
+  {
+    "id": 17,
+    "original": "The ancient library contained thousands of manuscripts written in languages that scholars spent decades attempting to decipher and translate carefully.",
+    "corrupted": "The ancient library containe thousands of manuscripts written in languages tat scholars spent decades attempting to decipher and translate carefully.",
+    "target_error_rate": 0.1,
+    "actual_error_rate": 0.1,
+    "word_count": 20,
+    "num_errors": 2
+  },
+  {
+    "id": 18,
+    "original": "The ancient library contained thousands of manuscripts written in languages that scholars spent decades attempting to decipher and translate carefully.",
+    "corrupted": "The ancient library contained thousandd of manuscripts written in languages that scholars spent decadse attcmpting to decipher and translate carefully.",
+    "target_error_rate": 0.25,
+    "actual_error_rate": 0.15,
+    "word_count": 20,
+    "num_errors": 5
+  },
+  {
+    "id": 19,
+    "original": "The ancient library contained thousands of manuscripts written in languages that scholars spent decades attempting to decipher and translate carefully.",
+    "corrupted": "hTe ancient mibrary contained thousands of manuscrivts writtenj in languages that scholars spent decades attempting to degipher mnd translate carefully.",
+    "target_error_rate": 0.375,
+    "actual_error_rate": 0.3,
+    "word_count": 20,
+    "num_errors": 7
+  },
+  {
+    "id": 20,
+    "original": "The ancient library contained thousands of manuscripts written in languages that scholars spent decades attempting to decipher and translate carefully.",
+    "corrupted": "Th ancinet library contained thousands of maunscripts wrivtten in anguages shat scholars spent decades attempting to decipher nad translate carefullk.",
+    "target_error_rate": 0.5,
+    "actual_error_rate": 0.4,
+    "word_count": 20,
+    "num_errors": 10
+  },
+  {
+    "id": 21,
+    "original": "Students from different countries collaborated on the research project, sharing their unique perspectives and cultural insights throughout the entire semester.",
+    "corrupted": "Students from different countries collaborated on the research project, sharing thir unique perspectives and cultural insights throughout the entire semester.",
+    "target_error_rate": 0.0,
+    "actual_error_rate": 0.05,
+    "word_count": 20,
+    "num_errors": 1
+  },
+  {
+    "id": 22,
+    "original": "Students from different countries collaborated on the research project, sharing their unique perspectives and cultural insights throughout the entire semester.",
+    "corrupted": "Students from different countries ocllaborated on the research project, sharing their unique perspecktives and cultural insights throughout the entire semester.",
+    "target_error_rate": 0.1,
+    "actual_error_rate": 0.1,
+    "word_count": 20,
+    "num_errors": 2
+  },
+  {
+    "id": 23,
+    "original": "Students from different countries collaborated on the research project, sharing their unique perspectives and cultural insights throughout the entire semester.",
+    "corrupted": "Students from differenw counftries collaborated on vthe research project, sharing their unique perspectives and culltural insights throughout the etnire semester.",
+    "target_error_rate": 0.25,
+    "actual_error_rate": 0.25,
+    "word_count": 20,
+    "num_errors": 5
+  },
+  {
+    "id": 24,
+    "original": "Students from different countries collaborated on the research project, sharing their unique perspectives and cultural insights throughout the entire semester.",
+    "corrupted": "Students frbm different couvntries collaborpated on the research cproject, shawring their unique perspectives and cutlural insights throughout te entire semester.",
+    "target_error_rate": 0.375,
+    "actual_error_rate": 0.35,
+    "word_count": 20,
+    "num_errors": 7
+  },
+  {
+    "id": 25,
+    "original": "Students from different countries collaborated on the research project, sharing their unique perspectives and cultural insights throughout the entire semester.",
+    "corrupted": "Stuents form diferent countries collaobrated on the research proect, sharing their unique perspectixes anzd ultural insights throughout the enitre semester.",
+    "target_error_rate": 0.5,
+    "actual_error_rate": 0.45,
+    "word_count": 20,
+    "num_errors": 10
+  },
+  {
+    "id": 26,
+    "original": "The weather forecast predicted heavy rainfall and strong winds for the coastal regions, prompting authorities to issue evacuation warnings yesterday.",
+    "corrupted": "The weather forecast predicted heavy rainfal and strong winds for the coastal regions, prompting authorities to issue evacuation warnings yesterday.",
+    "target_error_rate": 0.0,
+    "actual_error_rate": 0.05,
+    "word_count": 20,
+    "num_errors": 1
+  },
+  {
+    "id": 27,
+    "original": "The weather forecast predicted heavy rainfall and strong winds for the coastal regions, prompting authorities to issue evacuation warnings yesterday.",
+    "corrupted": "Thez weather forecast predicted heavy rainall and strong winds for the coastal regions, prompting authorities to issue evacuation warnings yesterday.",
+    "target_error_rate": 0.1,
+    "actual_error_rate": 0.1,
+    "word_count": 20,
+    "num_errors": 2
+  },
+  {
+    "id": 28,
+    "original": "The weather forecast predicted heavy rainfall and strong winds for the coastal regions, prompting authorities to issue evacuation warnings yesterday.",
+    "corrupted": "The weathre forecast predijted heavy raifall and strong winds for the coastal rgions, prompting authorities to issue evacuation warnings yesterday.",
+    "target_error_rate": 0.25,
+    "actual_error_rate": 0.2,
+    "word_count": 20,
+    "num_errors": 5
+  },
+  {
+    "id": 29,
+    "original": "The weather forecast predicted heavy rainfall and strong winds for the coastal regions, prompting authorities to issue evacuation warnings yesterday.",
+    "corrupted": "The weather forecxst predicted heayv rainfall andv strong dwinds for tshe coastal dregions, prompting authorities to issue evacuation warnintgs yesterday.",
+    "target_error_rate": 0.375,
+    "actual_error_rate": 0.35,
+    "word_count": 20,
+    "num_errors": 7
+  },
+  {
+    "id": 30,
+    "original": "The weather forecast predicted heavy rainfall and strong winds for the coastal regions, prompting authorities to issue evacuation warnings yesterday.",
+    "corrupted": "Tme weathre forecast predicted heavy rainfall vnd strong windks for thx coastal regons, promptinjg authorities to issue evacuatieon warnigs yesterday.",
+    "target_error_rate": 0.5,
+    "actual_error_rate": 0.45,
+    "word_count": 20,
+    "num_errors": 10
+  },
+  {
+    "id": 31,
+    "original": "Musicians performed a beautiful symphony that moved the audience to tears with its emotional melodies and powerful orchestral arrangements.",
+    "corrupted": "Musicians performed a beautiful symphony thart moved the audience to tears with its emotional melodies and powerful orchestral arrangements.",
+    "target_error_rate": 0.0,
+    "actual_error_rate": 0.05263157894736842,
+    "word_count": 19,
+    "num_errors": 1
+  },
+  {
+    "id": 32,
+    "original": "Musicians performed a beautiful symphony that moved the audience to tears with its emotional melodies and powerful orchestral arrangements.",
+    "corrupted": "Musigcians performed a beautiful symphony that moved the audience to tears with its emotional melodies and powerful orchestral arrangements.",
+    "target_error_rate": 0.1,
+    "actual_error_rate": 0.05263157894736842,
+    "word_count": 19,
+    "num_errors": 1
+  },
+  {
+    "id": 33,
+    "original": "Musicians performed a beautiful symphony that moved the audience to tears with its emotional melodies and powerful orchestral arrangements.",
+    "corrupted": "Musicians performed a beautiful symphony that moved the audience to tvars with its emoqional meoldies and pyowerful orchestral arrangements.",
+    "target_error_rate": 0.25,
+    "actual_error_rate": 0.21052631578947367,
+    "word_count": 19,
+    "num_errors": 4
+  },
+  {
+    "id": 34,
+    "original": "Musicians performed a beautiful symphony that moved the audience to tears with its emotional melodies and powerful orchestral arrangements.",
+    "corrupted": "Musiciams performed a beautiful symphony that moveg te audience to tears with its emtional melodies and powerful orchestral arrangeemnts.",
+    "target_error_rate": 0.375,
+    "actual_error_rate": 0.2631578947368421,
+    "word_count": 19,
+    "num_errors": 7
+  },
+  {
+    "id": 35,
+    "original": "Musicians performed a beautiful symphony that moved the audience to tears with its emotional melodies and powerful orchestral arrangements.",
+    "corrupted": "Musciians performed a beautiflu symphony that moved thet audiynce to tears wit ito emotionl melodies an powerful orchestral arrangements.",
+    "target_error_rate": 0.5,
+    "actual_error_rate": 0.42105263157894735,
+    "word_count": 19,
+    "num_errors": 9
+  },
+  {
+    "id": 36,
+    "original": "Engineers designed an innovative bridge structure that could withstand extreme weather conditions and heavy traffic loads for many decades.",
+    "corrupted": "Engineers designed an innovative bridge structure that could witistand extreme weather conditions and heavy traffic loads for many decades.",
+    "target_error_rate": 0.0,
+    "actual_error_rate": 0.05263157894736842,
+    "word_count": 19,
+    "num_errors": 1
+  },
+  {
+    "id": 37,
+    "original": "Engineers designed an innovative bridge structure that could withstand extreme weather conditions and heavy traffic loads for many decades.",
+    "corrupted": "Engineers designed an innovative bridge structure that could withstand extreme weather conditions and heavy traffci loads for many decades.",
+    "target_error_rate": 0.1,
+    "actual_error_rate": 0.05263157894736842,
+    "word_count": 19,
+    "num_errors": 1
+  },
+  {
+    "id": 38,
+    "original": "Engineers designed an innovative bridge structure that could withstand extreme weather conditions and heavy traffic loads for many decades.",
+    "corrupted": "Engineers designed an innovative bridge structure that culd wiwhstand eextreme eather conditions and heavy traffic loads for many decades.",
+    "target_error_rate": 0.25,
+    "actual_error_rate": 0.21052631578947367,
+    "word_count": 19,
+    "num_errors": 4
+  },
+  {
+    "id": 39,
+    "original": "Engineers designed an innovative bridge structure that could withstand extreme weather conditions and heavy traffic loads for many decades.",
+    "corrupted": "Enginees designed an innoative bridge structure thar could withstand extreme weaaher conditions and heayy trafyfic loads for many decaeds.",
+    "target_error_rate": 0.375,
+    "actual_error_rate": 0.3684210526315789,
+    "word_count": 19,
+    "num_errors": 7
+  },
+  {
+    "id": 40,
+    "original": "Engineers designed an innovative bridge structure that could withstand extreme weather conditions and heavy traffic loads for many decades.",
+    "corrupted": "Egnineers designed an innovative bridge tructure thyat could withstand extreme weathekr conditions ond htavy traffic loasd for many decdes.",
+    "target_error_rate": 0.5,
+    "actual_error_rate": 0.42105263157894735,
+    "word_count": 19,
+    "num_errors": 9
+  },
+  {
+    "id": 41,
+    "original": "The restaurant served delicious traditional dishes made from fresh local ingredients, prepared using recipes passed down through many generations.",
+    "corrupted": "The restaurant served delicious traditional dishes made from fresh local ingredients, prepared usiing recipes passed down through many generations.",
+    "target_error_rate": 0.0,
+    "actual_error_rate": 0.05263157894736842,
+    "word_count": 19,
+    "num_errors": 1
+  },
+  {
+    "id": 42,
+    "original": "The restaurant served delicious traditional dishes made from fresh local ingredients, prepared using recipes passed down through many generations.",
+    "corrupted": "The restaurant xerved delicious traditional dishes made from fresh local ingredients, prepared using recipes passed down through many generations.",
+    "target_error_rate": 0.1,
+    "actual_error_rate": 0.05263157894736842,
+    "word_count": 19,
+    "num_errors": 1
+  },
+  {
+    "id": 43,
+    "original": "The restaurant served delicious traditional dishes made from fresh local ingredients, prepared using recipes passed down through many generations.",
+    "corrupted": "The erstaurant served delicious traditional dishes made frmo fresh local ingredients, preared using recipes passed down through mayn generations.",
+    "target_error_rate": 0.25,
+    "actual_error_rate": 0.21052631578947367,
+    "word_count": 19,
+    "num_errors": 4
+  },
+  {
+    "id": 44,
+    "original": "The restaurant served delicious traditional dishes made from fresh local ingredients, prepared using recipes passed down through many generations.",
+    "corrupted": "The restauwant served delicious traditinal dishes made frfom fresh ocal ingrdeients, prepared using recipes passed sdown through many geenrations.",
+    "target_error_rate": 0.375,
+    "actual_error_rate": 0.3684210526315789,
+    "word_count": 19,
+    "num_errors": 7
+  },
+  {
+    "id": 45,
+    "original": "The restaurant served delicious traditional dishes made from fresh local ingredients, prepared using recipes passed down through many generations.",
+    "corrupted": "The restaurnnt served ndelicious traditional dishes made frcm fresh nocal ingredents, prepared ushing recipesw passed don through many genertaions.",
+    "target_error_rate": 0.5,
+    "actual_error_rate": 0.47368421052631576,
+    "word_count": 19,
+    "num_errors": 9
+  },
+  {
+    "id": 46,
+    "original": "Technology companies are investing heavily in renewable energy sources to reduce their carbon footprint and combat climate change effectively.",
+    "corrupted": "Technology companies areh investing heavily in renewable energy sources to reduce their carbon footprint and combat climate change effectively.",
+    "target_error_rate": 0.0,
+    "actual_error_rate": 0.05263157894736842,
+    "word_count": 19,
+    "num_errors": 1
+  },
+  {
+    "id": 47,
+    "original": "Technology companies are investing heavily in renewable energy sources to reduce their carbon footprint and combat climate change effectively.",
+    "corrupted": "Technology companies are investing heavily in renewable energy sources to reduce their carbon footprint aad combat climate change effectively.",
+    "target_error_rate": 0.1,
+    "actual_error_rate": 0.05263157894736842,
+    "word_count": 19,
+    "num_errors": 1
+  },
+  {
+    "id": 48,
+    "original": "Technology companies are investing heavily in renewable energy sources to reduce their carbon footprint and combat climate change effectively.",
+    "corrupted": "Technology companies are investing heavily in renewable energy sources to reiduce their carbon footprint and cobat climate change effectivaely.",
+    "target_error_rate": 0.25,
+    "actual_error_rate": 0.15789473684210525,
+    "word_count": 19,
+    "num_errors": 4
+  },
+  {
+    "id": 49,
+    "original": "Technology companies are investing heavily in renewable energy sources to reduce their carbon footprint and combat climate change effectively.",
+    "corrupted": "Technology companies rae investing heavily in renewaboe emnergy sources to reduce thir carbon footprint and comxbat climae charnge effectively.",
+    "target_error_rate": 0.375,
+    "actual_error_rate": 0.3684210526315789,
+    "word_count": 19,
+    "num_errors": 7
+  },
+  {
+    "id": 50,
+    "original": "Technology companies are investing heavily in renewable energy sources to reduce their carbon footprint and combat climate change effectively.",
+    "corrupted": "Technology copmanies are inveting hexvily in renewable energy sources to reduec teir carbon fooltprint an gcombat climate chnge effectively.",
+    "target_error_rate": 0.5,
+    "actual_error_rate": 0.47368421052631576,
+    "word_count": 19,
+    "num_errors": 9
+  },
+  {
+    "id": 51,
+    "original": "The marathon runner trained every single day for six months, gradually building endurance and speed to achieve her personal goals.",
+    "corrupted": "The marathon runner trained every single day for isx months, gradually building endurance and speed to achieve her personal goals.",
+    "target_error_rate": 0.0,
+    "actual_error_rate": 0.05,
+    "word_count": 20,
+    "num_errors": 1
+  },
+  {
+    "id": 52,
+    "original": "The marathon runner trained every single day for six months, gradually building endurance and speed to achieve her personal goals.",
+    "corrupted": "The marathon runner trained every single day for six aonths, gradually building endurance and speed to achieve he personal goals.",
+    "target_error_rate": 0.1,
+    "actual_error_rate": 0.1,
+    "word_count": 20,
+    "num_errors": 2
+  },
+  {
+    "id": 53,
+    "original": "The marathon runner trained every single day for six months, gradually building endurance and speed to achieve her personal goals.",
+    "corrupted": "The marathon runner trained every single day for six monthsp, gradually building endurance and specd to achieve ehr pebrsonal goals.",
+    "target_error_rate": 0.25,
+    "actual_error_rate": 0.2,
+    "word_count": 20,
+    "num_errors": 5
+  },
+  {
+    "id": 54,
+    "original": "The marathon runner trained every single day for six months, gradually building endurance and speed to achieve her personal goals.",
+    "corrupted": "The marython runner trined eveoy single day for six montsh, gradually building endurance and speed to achieve herj persnoal gaols.",
+    "target_error_rate": 0.375,
+    "actual_error_rate": 0.35,
+    "word_count": 20,
+    "num_errors": 7
+  },
+  {
+    "id": 55,
+    "original": "The marathon runner trained every single day for six months, gradually building endurance and speed to achieve her personal goals.",
+    "corrupted": "hTe marathon rubner trained every sigle dy forc six mnoths, gradually building endurance and speed to achieve er persnal goas.",
+    "target_error_rate": 0.5,
+    "actual_error_rate": 0.45,
+    "word_count": 20,
+    "num_errors": 10
+  },
+  {
+    "id": 56,
+    "original": "Historians uncovered fascinating evidence that changed our understanding of ancient civilizations and their remarkable technological achievements in construction.",
+    "corrupted": "Historians uncovered fascinating evidence that changed our understanding of ancientd civilizations and their remarkable technological achievements in construction.",
+    "target_error_rate": 0.0,
+    "actual_error_rate": 0.05555555555555555,
+    "word_count": 18,
+    "num_errors": 1
+  },
+  {
+    "id": 57,
+    "original": "Historians uncovered fascinating evidence that changed our understanding of ancient civilizations and their remarkable technological achievements in construction.",
+    "corrupted": "Historians uncovered fascinating evidence that changed our understanding of ancient civilizations and their remarkable technologicmal achievements in construction.",
+    "target_error_rate": 0.1,
+    "actual_error_rate": 0.05555555555555555,
+    "word_count": 18,
+    "num_errors": 1
+  },
+  {
+    "id": 58,
+    "original": "Historians uncovered fascinating evidence that changed our understanding of ancient civilizations and their remarkable technological achievements in construction.",
+    "corrupted": "Historians uncovered fascinating evidence that changed our undersatnding of ancient civilizations and their remarkable technological achievemetns in construction.",
+    "target_error_rate": 0.25,
+    "actual_error_rate": 0.1111111111111111,
+    "word_count": 18,
+    "num_errors": 4
+  },
+  {
+    "id": 59,
+    "original": "Historians uncovered fascinating evidence that changed our understanding of ancient civilizations and their remarkable technological achievements in construction.",
+    "corrupted": "Historianbs uncoverd fascinating evidfnce that changed our understanding of ancient civilizatinos and their remarkable technological achievements in constructipn.",
+    "target_error_rate": 0.375,
+    "actual_error_rate": 0.2777777777777778,
+    "word_count": 18,
+    "num_errors": 6
+  },
+  {
+    "id": 60,
+    "original": "Historians uncovered fascinating evidence that changed our understanding of ancient civilizations and their remarkable technological achievements in construction.",
+    "corrupted": "Historians uncovere fascinwating evidence that changded kur understanding of ancient civilibations anb their remarkabae technological achivvements in constructyion.",
+    "target_error_rate": 0.5,
+    "actual_error_rate": 0.5,
+    "word_count": 18,
+    "num_errors": 9
+  }
+]

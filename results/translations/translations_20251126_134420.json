@@ -1,0 +1,1262 @@
+[
+  {
+    "test_id": 1,
+    "test_case": {
+      "original_clean": "The quick brown fox jumps over the lazy dog while carrying a large package through the forest.",
+      "original_with_errors": "The quick brown fox jumps over the lazy dog while carrying a large package through the forest.",
+      "target_error_rate": 0.0,
+      "actual_error_rate": 0.0,
+      "word_count": 17
+    },
+    "translations": {
+      "step1_french": "Le rapide renard brun saute par-dessus le chien paresseux en transportant un grand colis à travers la forêt.",
+      "step2_hebrew": "השועל החום המהיר קופץ מעל הכלב העצלן בזמן שהוא נושא חבילה גדולה דרך היער.",
+      "step3_english": "The swift brown fox leaps over the lazy dog while carrying a big parcel through the woods."
+    },
+    "final": "The swift brown fox leaps over the lazy dog while carrying a big parcel through the woods.",
+    "metadata": {
+      "success": true,
+      "timestamp": "20251126_134420",
+      "processing_time": 6.34
+    }
+  },
+  {
+    "test_id": 2,
+    "test_case": {
+      "original_clean": "The quick brown fox jumps over the lazy dog while carrying a large package through the forest.",
+      "original_with_errors": "The quick brown fox jumps over the lazy dog while carrying a large package through the forest.",
+      "target_error_rate": 0.1,
+      "actual_error_rate": 0.1,
+      "word_count": 17
+    },
+    "translations": {
+      "step1_french": "Le rapide renard brun saute par-dessus le chien paresseux en transportant un grand colis à travers la forêt.",
+      "step2_hebrew": "השועל החום המהיר קופץ מעל הכלב העצלן בזמן שהוא נושא חבילה גדולה דרך היער.",
+      "step3_english": "The swift brown fox leaps over the lazy dog while carrying a big parcel through the woods."
+    },
+    "final": "The swift brown fox leaps over the lazy dog while carrying a big parcel through the woods.",
+    "metadata": {
+      "success": true,
+      "timestamp": "20251126_134420",
+      "processing_time": 6.95
+    }
+  },
+  {
+    "test_id": 3,
+    "test_case": {
+      "original_clean": "The quick brown fox jumps over the lazy dog while carrying a large package through the forest.",
+      "original_with_errors": "The quick borwn fox jumps over the lzay dog while carrying a large package through the farest.",
+      "target_error_rate": 0.25,
+      "actual_error_rate": 0.25,
+      "word_count": 17
+    },
+    "translations": {
+      "step1_french": "Le rapide renard brun saute par-dessus le chien paresseux en transportant un grand colis à travers la forêt.",
+      "step2_hebrew": "השועל החום המהיר קופץ מעל הכלב העצלן בזמן שהוא נושא חבילה גדולה דרך היער.",
+      "step3_english": "The swift brown fox leaps over the lazy dog while carrying a big parcel through the woods."
+    },
+    "final": "The swift brown fox leaps over the lazy dog while carrying a big parcel through the woods.",
+    "metadata": {
+      "success": true,
+      "timestamp": "20251126_134420",
+      "processing_time": 3.9
+    }
+  },
+  {
+    "test_id": 4,
+    "test_case": {
+      "original_clean": "The quick brown fox jumps over the lazy dog while carrying a large package through the forest.",
+      "original_with_errors": "The quick brown fox jumps over the lazy dog while caorying a large package tyhrough the forest.",
+      "target_error_rate": 0.375,
+      "actual_error_rate": 0.375,
+      "word_count": 17
+    },
+    "translations": {
+      "step1_french": "Le rapide renard brun saute par-dessus le chien paresseux en transportant un grand colis à travers la forêt.",
+      "step2_hebrew": "השועל החום המהיר קופץ מעל הכלב העצלן בזמן שהוא נושא חבילה גדולה דרך היער.",
+      "step3_english": "The swift brown fox leaps over the lazy dog while carrying a big parcel through the woods."
+    },
+    "final": "The swift brown fox leaps over the lazy dog while carrying a big parcel through the woods.",
+    "metadata": {
+      "success": true,
+      "timestamp": "20251126_134420",
+      "processing_time": 7.33
+    }
+  },
+  {
+    "test_id": 5,
+    "test_case": {
+      "original_clean": "The quick brown fox jumps over the lazy dog while carrying a large package through the forest.",
+      "original_with_errors": "The quitck brodn fox jumsp orer the lazy dog while carryiing a large plckage through the forest.",
+      "target_error_rate": 0.5,
+      "actual_error_rate": 0.5,
+      "word_count": 17
+    },
+    "translations": {
+      "step1_french": "Le rapide renard brun saute par-dessus le chien paresseux en transportant un grand colis à travers la forêt.",
+      "step2_hebrew": "השועל החום המהיר קופץ מעל הכלב העצלן בזמן שהוא נושא חבילה גדולה דרך היער.",
+      "step3_english": "The swift brown fox leaps over the lazy dog while carrying a big parcel through the woods."
+    },
+    "final": "The swift brown fox leaps over the lazy dog while carrying a big parcel through the woods.",
+    "metadata": {
+      "success": true,
+      "timestamp": "20251126_134420",
+      "processing_time": 7.81
+    }
+  },
+  {
+    "test_id": 6,
+    "test_case": {
+      "original_clean": "Scientists discovered remarkable patterns in the data that could revolutionize our understanding of climate change.",
+      "original_with_errors": "Scientists discovered remarkable patterns in the data that could revolutionize our understanding of climate change.",
+      "target_error_rate": 0.0,
+      "actual_error_rate": 0.0,
+      "word_count": 15
+    },
+    "translations": {
+      "step1_french": "Les scientifiques ont découvert des modèles remarquables dans les données qui pourraient révolutionner notre compréhension du changement climatique.",
+      "step2_hebrew": "מדענים גילו דפוסים מדהימים בנתונים שיכולים לחולל מהפכה בהבנתנו את שינוי האקלים.",
+      "step3_english": "Scientists found remarkable patterns in data that could revolutionize our understanding of climate change."
+    },
+    "final": "Scientists found remarkable patterns in data that could revolutionize our understanding of climate change.",
+    "metadata": {
+      "success": true,
+      "timestamp": "20251126_134420",
+      "processing_time": 4.67
+    }
+  },
+  {
+    "test_id": 7,
+    "test_case": {
+      "original_clean": "Scientists discovered remarkable patterns in the data that could revolutionize our understanding of climate change.",
+      "original_with_errors": "Scientists discovered remarkable ptaterns in the data that could revolutionize our understanding of climate change.",
+      "target_error_rate": 0.1,
+      "actual_error_rate": 0.1,
+      "word_count": 15
+    },
+    "translations": {
+      "step1_french": "Les scientifiques ont découvert des modèles remarquables dans les données qui pourraient révolutionner notre compréhension du changement climatique.",
+      "step2_hebrew": "מדענים גילו דפוסים מדהימים בנתונים שיכולים לחולל מהפכה בהבנתנו את שינוי האקלים.",
+      "step3_english": "Scientists found remarkable patterns in data that could revolutionize our understanding of climate change."
+    },
+    "final": "Scientists found remarkable patterns in data that could revolutionize our understanding of climate change.",
+    "metadata": {
+      "success": true,
+      "timestamp": "20251126_134420",
+      "processing_time": 6.47
+    }
+  },
+  {
+    "test_id": 8,
+    "test_case": {
+      "original_clean": "Scientists discovered remarkable patterns in the data that could revolutionize our understanding of climate change.",
+      "original_with_errors": "Scientists dicovered remarkable patterns in the data that could revolutionize our understanding of climate change.",
+      "target_error_rate": 0.25,
+      "actual_error_rate": 0.25,
+      "word_count": 15
+    },
+    "translations": {
+      "step1_french": "Les scientifiques ont découvert des modèles remarquables dans les données qui pourraient révolutionner notre compréhension du changement climatique.",
+      "step2_hebrew": "מדענים גילו דפוסים מדהימים בנתונים שיכולים לחולל מהפכה בהבנתנו את שינוי האקלים.",
+      "step3_english": "Scientists found remarkable patterns in data that could revolutionize our understanding of climate change."
+    },
+    "final": "Scientists found remarkable patterns in data that could revolutionize our understanding of climate change.",
+    "metadata": {
+      "success": true,
+      "timestamp": "20251126_134420",
+      "processing_time": 4.78
+    }
+  },
+  {
+    "test_id": 9,
+    "test_case": {
+      "original_clean": "Scientists discovered remarkable patterns in the data that could revolutionize our understanding of climate change.",
+      "original_with_errors": "Scientists discovered retmarkable patterns in the data tvhat could revolutionize our understanding of climate change.",
+      "target_error_rate": 0.375,
+      "actual_error_rate": 0.375,
+      "word_count": 15
+    },
+    "translations": {
+      "step1_french": "Les scientifiques ont découvert des modèles remarquables dans les données qui pourraient révolutionner notre compréhension du changement climatique.",
+      "step2_hebrew": "מדענים גילו דפוסים מדהימים בנתונים שיכולים לחולל מהפכה בהבנתנו את שינוי האקלים.",
+      "step3_english": "Scientists found remarkable patterns in data that could revolutionize our understanding of climate change."
+    },
+    "final": "Scientists found remarkable patterns in data that could revolutionize our understanding of climate change.",
+    "metadata": {
+      "success": true,
+      "timestamp": "20251126_134420",
+      "processing_time": 6.31
+    }
+  },
+  {
+    "test_id": 10,
+    "test_case": {
+      "original_clean": "Scientists discovered remarkable patterns in the data that could revolutionize our understanding of climate change.",
+      "original_with_errors": "Scientists discovered remarcable patetrns in the daa tht coud revolutionize our uhnderstanding of climate change.",
+      "target_error_rate": 0.5,
+      "actual_error_rate": 0.5,
+      "word_count": 15
+    },
+    "translations": {
+      "step1_french": "Les scientifiques ont découvert des modèles remarquables dans les données qui pourraient révolutionner notre compréhension du changement climatique.",
+      "step2_hebrew": "מדענים גילו דפוסים מדהימים בנתונים שיכולים לחולל מהפכה בהבנתנו את שינוי האקלים.",
+      "step3_english": "Scientists found remarkable patterns in data that could revolutionize our understanding of climate change."
+    },
+    "final": "Scientists found remarkable patterns in data that could revolutionize our understanding of climate change.",
+    "metadata": {
+      "success": true,
+      "timestamp": "20251126_134420",
+      "processing_time": 4.87
+    }
+  },
+  {
+    "test_id": 11,
+    "test_case": {
+      "original_clean": "The ancient library contained thousands of manuscripts written in languages that have been lost to history.",
+      "original_with_errors": "The ancient library contained thousands of manuscripts written in languages that have been lost to history.",
+      "target_error_rate": 0.0,
+      "actual_error_rate": 0.0,
+      "word_count": 16
+    },
+    "translations": {
+      "step1_french": "L'ancienne bibliothèque contenait des milliers de manuscrits écrits dans des langues qui ont été perdues dans l'histoire.",
+      "step2_hebrew": "הספרייה העתיקה הכילה אלפי כתבי יד שנכתבו בשפות שאבדו להיסטוריה.",
+      "step3_english": "The old library held thousands of manuscripts written in languages lost to history."
+    },
+    "final": "The old library held thousands of manuscripts written in languages lost to history.",
+    "metadata": {
+      "success": true,
+      "timestamp": "20251126_134420",
+      "processing_time": 7.99
+    }
+  },
+  {
+    "test_id": 12,
+    "test_case": {
+      "original_clean": "The ancient library contained thousands of manuscripts written in languages that have been lost to history.",
+      "original_with_errors": "The ancient library contained thousands of manuscripts written in languages that have been lost to history.",
+      "target_error_rate": 0.1,
+      "actual_error_rate": 0.1,
+      "word_count": 16
+    },
+    "translations": {
+      "step1_french": "L'ancienne bibliothèque contenait des milliers de manuscrits écrits dans des langues qui ont été perdues dans l'histoire.",
+      "step2_hebrew": "הספרייה העתיקה הכילה אלפי כתבי יד שנכתבו בשפות שאבדו להיסטוריה.",
+      "step3_english": "The old library held thousands of manuscripts written in languages lost to history."
+    },
+    "final": "The old library held thousands of manuscripts written in languages lost to history.",
+    "metadata": {
+      "success": true,
+      "timestamp": "20251126_134420",
+      "processing_time": 3.36
+    }
+  },
+  {
+    "test_id": 13,
+    "test_case": {
+      "original_clean": "The ancient library contained thousands of manuscripts written in languages that have been lost to history.",
+      "original_with_errors": "The ancient library contamned thousasnds of manuscripts written in languages that heave been lost to history.",
+      "target_error_rate": 0.25,
+      "actual_error_rate": 0.25,
+      "word_count": 16
+    },
+    "translations": {
+      "step1_french": "L'ancienne bibliothèque contenait des milliers de manuscrits écrits dans des langues qui ont été perdues dans l'histoire.",
+      "step2_hebrew": "הספרייה העתיקה הכילה אלפי כתבי יד שנכתבו בשפות שאבדו להיסטוריה.",
+      "step3_english": "The old library held thousands of manuscripts written in languages lost to history."
+    },
+    "final": "The old library held thousands of manuscripts written in languages lost to history.",
+    "metadata": {
+      "success": true,
+      "timestamp": "20251126_134420",
+      "processing_time": 5.56
+    }
+  },
+  {
+    "test_id": 14,
+    "test_case": {
+      "original_clean": "The ancient library contained thousands of manuscripts written in languages that have been lost to history.",
+      "original_with_errors": "The ancieot librry contained thousands of manuscripts written in languages thta have bene lost to histoary.",
+      "target_error_rate": 0.375,
+      "actual_error_rate": 0.375,
+      "word_count": 16
+    },
+    "translations": {
+      "step1_french": "L'ancienne bibliothèque contenait des milliers de manuscrits écrits dans des langues qui ont été perdues dans l'histoire.",
+      "step2_hebrew": "הספרייה העתיקה הכילה אלפי כתבי יד שנכתבו בשפות שאבדו להיסטוריה.",
+      "step3_english": "The old library held thousands of manuscripts written in languages lost to history."
+    },
+    "final": "The old library held thousands of manuscripts written in languages lost to history.",
+    "metadata": {
+      "success": true,
+      "timestamp": "20251126_134420",
+      "processing_time": 7.11
+    }
+  },
+  {
+    "test_id": 15,
+    "test_case": {
+      "original_clean": "The ancient library contained thousands of manuscripts written in languages that have been lost to history.",
+      "original_with_errors": "The ancietnt librayr contained thusands of manruscripts writaten in languages tat have been lots to history.",
+      "target_error_rate": 0.5,
+      "actual_error_rate": 0.5,
+      "word_count": 16
+    },
+    "translations": {
+      "step1_french": "L'ancienne bibliothèque contenait des milliers de manuscrits écrits dans des langues qui ont été perdues dans l'histoire.",
+      "step2_hebrew": "הספרייה העתיקה הכילה אלפי כתבי יד שנכתבו בשפות שאבדו להיסטוריה.",
+      "step3_english": "The old library held thousands of manuscripts written in languages lost to history."
+    },
+    "final": "The old library held thousands of manuscripts written in languages lost to history.",
+    "metadata": {
+      "success": true,
+      "timestamp": "20251126_134420",
+      "processing_time": 7.77
+    }
+  },
+  {
+    "test_id": 16,
+    "test_case": {
+      "original_clean": "Modern technology enables people to communicate instantly across vast distances, transforming how we work and live.",
+      "original_with_errors": "Modern technology enables people to communicate instantly across vast distances, transforming how we work and live.",
+      "target_error_rate": 0.0,
+      "actual_error_rate": 0.0,
+      "word_count": 16
+    },
+    "translations": {
+      "step1_french": "La technologie moderne permet aux gens de communiquer instantanément sur de vastes distances, transformant notre façon de travailler et de vivre.",
+      "step2_hebrew": "טכנולוגיה מודרנית מאפשרת לאנשים לתקשר באופן מיידי על פני מרחקים עצומים, ומשנה את הדרך בה אנו עובדים וחיים.",
+      "step3_english": "Modern technology allows people to communicate instantly across great distances, changing how we work and live."
+    },
+    "final": "Modern technology allows people to communicate instantly across great distances, changing how we work and live.",
+    "metadata": {
+      "success": true,
+      "timestamp": "20251126_134420",
+      "processing_time": 7.49
+    }
+  },
+  {
+    "test_id": 17,
+    "test_case": {
+      "original_clean": "Modern technology enables people to communicate instantly across vast distances, transforming how we work and live.",
+      "original_with_errors": "Modern technology enables people to communicate instantly across vast dstances, transforming how we work and live.",
+      "target_error_rate": 0.1,
+      "actual_error_rate": 0.1,
+      "word_count": 16
+    },
+    "translations": {
+      "step1_french": "La technologie moderne permet aux gens de communiquer instantanément sur de vastes distances, transformant notre façon de travailler et de vivre.",
+      "step2_hebrew": "טכנולוגיה מודרנית מאפשרת לאנשים לתקשר באופן מיידי על פני מרחקים עצומים, ומשנה את הדרך בה אנו עובדים וחיים.",
+      "step3_english": "Modern technology allows people to communicate instantly across great distances, changing how we work and live."
+    },
+    "final": "Modern technology allows people to communicate instantly across great distances, changing how we work and live.",
+    "metadata": {
+      "success": true,
+      "timestamp": "20251126_134420",
+      "processing_time": 3.95
+    }
+  },
+  {
+    "test_id": 18,
+    "test_case": {
+      "original_clean": "Modern technology enables people to communicate instantly across vast distances, transforming how we work and live.",
+      "original_with_errors": "Modern tecnology enablse people to communicate instantly acioss vast distances, transforming how we work and live.",
+      "target_error_rate": 0.25,
+      "actual_error_rate": 0.25,
+      "word_count": 16
+    },
+    "translations": {
+      "step1_french": "La technologie moderne permet aux gens de communiquer instantanément sur de vastes distances, transformant notre façon de travailler et de vivre.",
+      "step2_hebrew": "טכנולוגיה מודרנית מאפשרת לאנשים לתקשר באופן מיידי על פני מרחקים עצומים, ומשנה את הדרך בה אנו עובדים וחיים.",
+      "step3_english": "Modern technology allows people to communicate instantly across great distances, changing how we work and live."
+    },
+    "final": "Modern technology allows people to communicate instantly across great distances, changing how we work and live.",
+    "metadata": {
+      "success": true,
+      "timestamp": "20251126_134420",
+      "processing_time": 5.67
+    }
+  },
+  {
+    "test_id": 19,
+    "test_case": {
+      "original_clean": "Modern technology enables people to communicate instantly across vast distances, transforming how we work and live.",
+      "original_with_errors": "Modern technology enables peopqle to communicate instantly across vhst distances, transforming how we wovrk and live.",
+      "target_error_rate": 0.375,
+      "actual_error_rate": 0.375,
+      "word_count": 16
+    },
+    "translations": {
+      "step1_french": "La technologie moderne permet aux gens de communiquer instantanément sur de vastes distances, transformant notre façon de travailler et de vivre.",
+      "step2_hebrew": "טכנולוגיה מודרנית מאפשרת לאנשים לתקשר באופן מיידי על פני מרחקים עצומים, ומשנה את הדרך בה אנו עובדים וחיים.",
+      "step3_english": "Modern technology allows people to communicate instantly across great distances, changing how we work and live."
+    },
+    "final": "Modern technology allows people to communicate instantly across great distances, changing how we work and live.",
+    "metadata": {
+      "success": true,
+      "timestamp": "20251126_134420",
+      "processing_time": 3.85
+    }
+  },
+  {
+    "test_id": 20,
+    "test_case": {
+      "original_clean": "Modern technology enables people to communicate instantly across vast distances, transforming how we work and live.",
+      "original_with_errors": "Mdern technology enables peopgle to communicate instantly across vsat distanecs, tarnsforming how we wok and live.",
+      "target_error_rate": 0.5,
+      "actual_error_rate": 0.5,
+      "word_count": 16
+    },
+    "translations": {
+      "step1_french": "La technologie moderne permet aux gens de communiquer instantanément sur de vastes distances, transformant notre façon de travailler et de vivre.",
+      "step2_hebrew": "טכנולוגיה מודרנית מאפשרת לאנשים לתקשר באופן מיידי על פני מרחקים עצומים, ומשנה את הדרך בה אנו עובדים וחיים.",
+      "step3_english": "Modern technology allows people to communicate instantly across great distances, changing how we work and live."
+    },
+    "final": "Modern technology allows people to communicate instantly across great distances, changing how we work and live.",
+    "metadata": {
+      "success": true,
+      "timestamp": "20251126_134420",
+      "processing_time": 3.96
+    }
+  },
+  {
+    "test_id": 21,
+    "test_case": {
+      "original_clean": "The chef carefully prepared the elaborate meal, combining traditional techniques with innovative culinary approaches.",
+      "original_with_errors": "The chef carefully prepared the elaborate meal, combining traditional techniques with innovative culinary approaches.",
+      "target_error_rate": 0.0,
+      "actual_error_rate": 0.0,
+      "word_count": 14
+    },
+    "translations": {
+      "step1_french": "Le chef a soigneusement préparé le repas élaboré, combinant des techniques traditionnelles avec des approches culinaires innovantes.",
+      "step2_hebrew": "השף הכין בקפידה את הארוחה המשוכללת, תוך שילוב טכניקות מסורתיות עם גישות קולינריות חדשניות.",
+      "step3_english": "The chef carefully made the elaborate meal, mixing traditional methods with innovative cooking approaches."
+    },
+    "final": "The chef carefully made the elaborate meal, mixing traditional methods with innovative cooking approaches.",
+    "metadata": {
+      "success": true,
+      "timestamp": "20251126_134420",
+      "processing_time": 5.34
+    }
+  },
+  {
+    "test_id": 22,
+    "test_case": {
+      "original_clean": "The chef carefully prepared the elaborate meal, combining traditional techniques with innovative culinary approaches.",
+      "original_with_errors": "The chef carefully prepared the elaborate mal, combining traditional techniques with innovative culinary approaches.",
+      "target_error_rate": 0.1,
+      "actual_error_rate": 0.1,
+      "word_count": 14
+    },
+    "translations": {
+      "step1_french": "Le chef a soigneusement préparé le repas élaboré, combinant des techniques traditionnelles avec des approches culinaires innovantes.",
+      "step2_hebrew": "השף הכין בקפידה את הארוחה המשוכללת, תוך שילוב טכניקות מסורתיות עם גישות קולינריות חדשניות.",
+      "step3_english": "The chef carefully made the elaborate meal, mixing traditional methods with innovative cooking approaches."
+    },
+    "final": "The chef carefully made the elaborate meal, mixing traditional methods with innovative cooking approaches.",
+    "metadata": {
+      "success": true,
+      "timestamp": "20251126_134420",
+      "processing_time": 3.08
+    }
+  },
+  {
+    "test_id": 23,
+    "test_case": {
+      "original_clean": "The chef carefully prepared the elaborate meal, combining traditional techniques with innovative culinary approaches.",
+      "original_with_errors": "The chef carefully prepared the elabortae mexl, combining traditional techniques with innovative culinary approaches.",
+      "target_error_rate": 0.25,
+      "actual_error_rate": 0.25,
+      "word_count": 14
+    },
+    "translations": {
+      "step1_french": "Le chef a soigneusement préparé le repas élaboré, combinant des techniques traditionnelles avec des approches culinaires innovantes.",
+      "step2_hebrew": "השף הכין בקפידה את הארוחה המשוכללת, תוך שילוב טכניקות מסורתיות עם גישות קולינריות חדשניות.",
+      "step3_english": "The chef carefully made the elaborate meal, mixing traditional methods with innovative cooking approaches."
+    },
+    "final": "The chef carefully made the elaborate meal, mixing traditional methods with innovative cooking approaches.",
+    "metadata": {
+      "success": true,
+      "timestamp": "20251126_134420",
+      "processing_time": 4.92
+    }
+  },
+  {
+    "test_id": 24,
+    "test_case": {
+      "original_clean": "The chef carefully prepared the elaborate meal, combining traditional techniques with innovative culinary approaches.",
+      "original_with_errors": "The chf carefully prcpared the elaboate meal, combining traditional techniques wbth innovative cuninary approaches.",
+      "target_error_rate": 0.375,
+      "actual_error_rate": 0.375,
+      "word_count": 14
+    },
+    "translations": {
+      "step1_french": "Le chef a soigneusement préparé le repas élaboré, combinant des techniques traditionnelles avec des approches culinaires innovantes.",
+      "step2_hebrew": "השף הכין בקפידה את הארוחה המשוכללת, תוך שילוב טכניקות מסורתיות עם גישות קולינריות חדשניות.",
+      "step3_english": "The chef carefully made the elaborate meal, mixing traditional methods with innovative cooking approaches."
+    },
+    "final": "The chef carefully made the elaborate meal, mixing traditional methods with innovative cooking approaches.",
+    "metadata": {
+      "success": true,
+      "timestamp": "20251126_134420",
+      "processing_time": 6.41
+    }
+  },
+  {
+    "test_id": 25,
+    "test_case": {
+      "original_clean": "The chef carefully prepared the elaborate meal, combining traditional techniques with innovative culinary approaches.",
+      "original_with_errors": "The cehf carefulzly pmepared the elaborate menl, cogbining tradmtional techniques with innovative culinary approaches.",
+      "target_error_rate": 0.5,
+      "actual_error_rate": 0.5,
+      "word_count": 14
+    },
+    "translations": {
+      "step1_french": "Le chef a soigneusement préparé le repas élaboré, combinant des techniques traditionnelles avec des approches culinaires innovantes.",
+      "step2_hebrew": "השף הכין בקפידה את הארוחה המשוכללת, תוך שילוב טכניקות מסורתיות עם גישות קולינריות חדשניות.",
+      "step3_english": "The chef carefully made the elaborate meal, mixing traditional methods with innovative cooking approaches."
+    },
+    "final": "The chef carefully made the elaborate meal, mixing traditional methods with innovative cooking approaches.",
+    "metadata": {
+      "success": true,
+      "timestamp": "20251126_134420",
+      "processing_time": 4.28
+    }
+  },
+  {
+    "test_id": 26,
+    "test_case": {
+      "original_clean": "Students gathered in the auditorium to hear the inspiring lecture about achievements in space exploration.",
+      "original_with_errors": "Students gathered in the auditorium to hear the inspiring lecture about achievements in space exploration.",
+      "target_error_rate": 0.0,
+      "actual_error_rate": 0.0,
+      "word_count": 15
+    },
+    "translations": {
+      "step1_french": "Les étudiants se sont rassemblés dans l'auditorium pour entendre la conférence inspirante sur les réalisations de l'exploration spatiale.",
+      "step2_hebrew": "סטודנטים התאספו באולם כדי לשמוע את ההרצאה המעוררת השראה על ההישגים בחקר החלל.",
+      "step3_english": "Students gathered in the hall to hear an inspiring lecture about achievements in space exploration."
+    },
+    "final": "Students gathered in the hall to hear an inspiring lecture about achievements in space exploration.",
+    "metadata": {
+      "success": true,
+      "timestamp": "20251126_134420",
+      "processing_time": 8.31
+    }
+  },
+  {
+    "test_id": 27,
+    "test_case": {
+      "original_clean": "Students gathered in the auditorium to hear the inspiring lecture about achievements in space exploration.",
+      "original_with_errors": "Students gathered in the auditorium to hear the inspiring lecutre about achievements in space exploration.",
+      "target_error_rate": 0.1,
+      "actual_error_rate": 0.1,
+      "word_count": 15
+    },
+    "translations": {
+      "step1_french": "Les étudiants se sont rassemblés dans l'auditorium pour entendre la conférence inspirante sur les réalisations de l'exploration spatiale.",
+      "step2_hebrew": "סטודנטים התאספו באולם כדי לשמוע את ההרצאה המעוררת השראה על ההישגים בחקר החלל.",
+      "step3_english": "Students gathered in the hall to hear an inspiring lecture about achievements in space exploration."
+    },
+    "final": "Students gathered in the hall to hear an inspiring lecture about achievements in space exploration.",
+    "metadata": {
+      "success": true,
+      "timestamp": "20251126_134420",
+      "processing_time": 2.84
+    }
+  },
+  {
+    "test_id": 28,
+    "test_case": {
+      "original_clean": "Students gathered in the auditorium to hear the inspiring lecture about achievements in space exploration.",
+      "original_with_errors": "Students gathered in the auditorium to hear the inspirign lcture about achievements in space exploration.",
+      "target_error_rate": 0.25,
+      "actual_error_rate": 0.25,
+      "word_count": 15
+    },
+    "translations": {
+      "step1_french": "Les étudiants se sont rassemblés dans l'auditorium pour entendre la conférence inspirante sur les réalisations de l'exploration spatiale.",
+      "step2_hebrew": "סטודנטים התאספו באולם כדי לשמוע את ההרצאה המעוררת השראה על ההישגים בחקר החלל.",
+      "step3_english": "Students gathered in the hall to hear an inspiring lecture about achievements in space exploration."
+    },
+    "final": "Students gathered in the hall to hear an inspiring lecture about achievements in space exploration.",
+    "metadata": {
+      "success": true,
+      "timestamp": "20251126_134420",
+      "processing_time": 3.61
+    }
+  },
+  {
+    "test_id": 29,
+    "test_case": {
+      "original_clean": "Students gathered in the auditorium to hear the inspiring lecture about achievements in space exploration.",
+      "original_with_errors": "Students gatheed in the auditorium to hera the inspiring lectuer abotu achievements in space exploration.",
+      "target_error_rate": 0.375,
+      "actual_error_rate": 0.375,
+      "word_count": 15
+    },
+    "translations": {
+      "step1_french": "Les étudiants se sont rassemblés dans l'auditorium pour entendre la conférence inspirante sur les réalisations de l'exploration spatiale.",
+      "step2_hebrew": "סטודנטים התאספו באולם כדי לשמוע את ההרצאה המעוררת השראה על ההישגים בחקר החלל.",
+      "step3_english": "Students gathered in the hall to hear an inspiring lecture about achievements in space exploration."
+    },
+    "final": "Students gathered in the hall to hear an inspiring lecture about achievements in space exploration.",
+    "metadata": {
+      "success": true,
+      "timestamp": "20251126_134420",
+      "processing_time": 6.44
+    }
+  },
+  {
+    "test_id": 30,
+    "test_case": {
+      "original_clean": "Students gathered in the auditorium to hear the inspiring lecture about achievements in space exploration.",
+      "original_with_errors": "Students gathered in the aduitorium to hear the inspkiring lecteure abost achievements in space exploration.",
+      "target_error_rate": 0.5,
+      "actual_error_rate": 0.5,
+      "word_count": 15
+    },
+    "translations": {
+      "step1_french": "Les étudiants se sont rassemblés dans l'auditorium pour entendre la conférence inspirante sur les réalisations de l'exploration spatiale.",
+      "step2_hebrew": "סטודנטים התאספו באולם כדי לשמוע את ההרצאה המעוררת השראה על ההישגים בחקר החלל.",
+      "step3_english": "Students gathered in the hall to hear an inspiring lecture about achievements in space exploration."
+    },
+    "final": "Students gathered in the hall to hear an inspiring lecture about achievements in space exploration.",
+    "metadata": {
+      "success": true,
+      "timestamp": "20251126_134420",
+      "processing_time": 8.48
+    }
+  },
+  {
+    "test_id": 31,
+    "test_case": {
+      "original_clean": "The musician composed a beautiful symphony that captured the essence of changing seasons throughout the year.",
+      "original_with_errors": "The musician composed a beautiful symphony that captured the essence of changing seasons throughout the year.",
+      "target_error_rate": 0.0,
+      "actual_error_rate": 0.0,
+      "word_count": 16
+    },
+    "translations": {
+      "step1_french": "Le musicien a composé une belle symphonie qui a capturé l'essence des saisons changeantes tout au long de l'année.",
+      "step2_hebrew": "המוזיקאי הלחין סימפוניה יפה שתפסה את מהות העונות המשתנות לאורך השנה.",
+      "step3_english": "The musician wrote a beautiful symphony capturing the essence of changing seasons throughout the year."
+    },
+    "final": "The musician wrote a beautiful symphony capturing the essence of changing seasons throughout the year.",
+    "metadata": {
+      "success": true,
+      "timestamp": "20251126_134420",
+      "processing_time": 2.94
+    }
+  },
+  {
+    "test_id": 32,
+    "test_case": {
+      "original_clean": "The musician composed a beautiful symphony that captured the essence of changing seasons throughout the year.",
+      "original_with_errors": "The musician composed a beautiful symphony tlhat captured the essence of changing seasons throughout the year.",
+      "target_error_rate": 0.1,
+      "actual_error_rate": 0.1,
+      "word_count": 16
+    },
+    "translations": {
+      "step1_french": "Le musicien a composé une belle symphonie qui a capturé l'essence des saisons changeantes tout au long de l'année.",
+      "step2_hebrew": "המוזיקאי הלחין סימפוניה יפה שתפסה את מהות העונות המשתנות לאורך השנה.",
+      "step3_english": "The musician wrote a beautiful symphony capturing the essence of changing seasons throughout the year."
+    },
+    "final": "The musician wrote a beautiful symphony capturing the essence of changing seasons throughout the year.",
+    "metadata": {
+      "success": true,
+      "timestamp": "20251126_134420",
+      "processing_time": 7.79
+    }
+  },
+  {
+    "test_id": 33,
+    "test_case": {
+      "original_clean": "The musician composed a beautiful symphony that captured the essence of changing seasons throughout the year.",
+      "original_with_errors": "The musician composded a beautiufl symphzony that captuwed the essence of changing seasons throughout the year.",
+      "target_error_rate": 0.25,
+      "actual_error_rate": 0.25,
+      "word_count": 16
+    },
+    "translations": {
+      "step1_french": "Le musicien a composé une belle symphonie qui a capturé l'essence des saisons changeantes tout au long de l'année.",
+      "step2_hebrew": "המוזיקאי הלחין סימפוניה יפה שתפסה את מהות העונות המשתנות לאורך השנה.",
+      "step3_english": "The musician wrote a beautiful symphony capturing the essence of changing seasons throughout the year."
+    },
+    "final": "The musician wrote a beautiful symphony capturing the essence of changing seasons throughout the year.",
+    "metadata": {
+      "success": true,
+      "timestamp": "20251126_134420",
+      "processing_time": 8.13
+    }
+  },
+  {
+    "test_id": 34,
+    "test_case": {
+      "original_clean": "The musician composed a beautiful symphony that captured the essence of changing seasons throughout the year.",
+      "original_with_errors": "The muvsician composed a beatiful symphony that captured the essence of cahnging seasons throughoiut the yeagr.",
+      "target_error_rate": 0.375,
+      "actual_error_rate": 0.375,
+      "word_count": 16
+    },
+    "translations": {
+      "step1_french": "Le musicien a composé une belle symphonie qui a capturé l'essence des saisons changeantes tout au long de l'année.",
+      "step2_hebrew": "המוזיקאי הלחין סימפוניה יפה שתפסה את מהות העונות המשתנות לאורך השנה.",
+      "step3_english": "The musician wrote a beautiful symphony capturing the essence of changing seasons throughout the year."
+    },
+    "final": "The musician wrote a beautiful symphony capturing the essence of changing seasons throughout the year.",
+    "metadata": {
+      "success": true,
+      "timestamp": "20251126_134420",
+      "processing_time": 6.31
+    }
+  },
+  {
+    "test_id": 35,
+    "test_case": {
+      "original_clean": "The musician composed a beautiful symphony that captured the essence of changing seasons throughout the year.",
+      "original_with_errors": "The musician compoaed a baeutiful symphwny that captured the essence of changng seasons throughout the year.",
+      "target_error_rate": 0.5,
+      "actual_error_rate": 0.5,
+      "word_count": 16
+    },
+    "translations": {
+      "step1_french": "Le musicien a composé une belle symphonie qui a capturé l'essence des saisons changeantes tout au long de l'année.",
+      "step2_hebrew": "המוזיקאי הלחין סימפוניה יפה שתפסה את מהות העונות המשתנות לאורך השנה.",
+      "step3_english": "The musician wrote a beautiful symphony capturing the essence of changing seasons throughout the year."
+    },
+    "final": "The musician wrote a beautiful symphony capturing the essence of changing seasons throughout the year.",
+    "metadata": {
+      "success": true,
+      "timestamp": "20251126_134420",
+      "processing_time": 2.72
+    }
+  },
+  {
+    "test_id": 36,
+    "test_case": {
+      "original_clean": "Researchers analyzed complex datasets to identify trends that could help predict future economic developments.",
+      "original_with_errors": "Researchers analyzed complex datasets to identify trends that could help predict future economic developments.",
+      "target_error_rate": 0.0,
+      "actual_error_rate": 0.0,
+      "word_count": 14
+    },
+    "translations": {
+      "step1_french": "Les chercheurs ont analysé des ensembles de données complexes pour identifier les tendances qui pourraient aider à prédire les développements économiques futurs.",
+      "step2_hebrew": "חוקרים ניתחו מערכי נתונים מורכבים כדי לזהות מגמות שיכולות לעזור לחזות התפתחויות כלכליות עתידיות.",
+      "step3_english": "Researchers studied complex data sets to find trends that could help predict future economic developments."
+    },
+    "final": "Researchers studied complex data sets to find trends that could help predict future economic developments.",
+    "metadata": {
+      "success": true,
+      "timestamp": "20251126_134420",
+      "processing_time": 4.72
+    }
+  },
+  {
+    "test_id": 37,
+    "test_case": {
+      "original_clean": "Researchers analyzed complex datasets to identify trends that could help predict future economic developments.",
+      "original_with_errors": "Researchers analyzed complex datasets to identify trends that cold help predict future economic developments.",
+      "target_error_rate": 0.1,
+      "actual_error_rate": 0.1,
+      "word_count": 14
+    },
+    "translations": {
+      "step1_french": "Les chercheurs ont analysé des ensembles de données complexes pour identifier les tendances qui pourraient aider à prédire les développements économiques futurs.",
+      "step2_hebrew": "חוקרים ניתחו מערכי נתונים מורכבים כדי לזהות מגמות שיכולות לעזור לחזות התפתחויות כלכליות עתידיות.",
+      "step3_english": "Researchers studied complex data sets to find trends that could help predict future economic developments."
+    },
+    "final": "Researchers studied complex data sets to find trends that could help predict future economic developments.",
+    "metadata": {
+      "success": true,
+      "timestamp": "20251126_134420",
+      "processing_time": 3.26
+    }
+  },
+  {
+    "test_id": 38,
+    "test_case": {
+      "original_clean": "Researchers analyzed complex datasets to identify trends that could help predict future economic developments.",
+      "original_with_errors": "Reearchers analyzed complex datasets to idventify trends that could help predict future economic developments.",
+      "target_error_rate": 0.25,
+      "actual_error_rate": 0.25,
+      "word_count": 14
+    },
+    "translations": {
+      "step1_french": "Les chercheurs ont analysé des ensembles de données complexes pour identifier les tendances qui pourraient aider à prédire les développements économiques futurs.",
+      "step2_hebrew": "חוקרים ניתחו מערכי נתונים מורכבים כדי לזהות מגמות שיכולות לעזור לחזות התפתחויות כלכליות עתידיות.",
+      "step3_english": "Researchers studied complex data sets to find trends that could help predict future economic developments."
+    },
+    "final": "Researchers studied complex data sets to find trends that could help predict future economic developments.",
+    "metadata": {
+      "success": true,
+      "timestamp": "20251126_134420",
+      "processing_time": 4.62
+    }
+  },
+  {
+    "test_id": 39,
+    "test_case": {
+      "original_clean": "Researchers analyzed complex datasets to identify trends that could help predict future economic developments.",
+      "original_with_errors": "Researchers analyzed comlex datases to identify tfends that culd hezlp predict future economic developments.",
+      "target_error_rate": 0.375,
+      "actual_error_rate": 0.375,
+      "word_count": 14
+    },
+    "translations": {
+      "step1_french": "Les chercheurs ont analysé des ensembles de données complexes pour identifier les tendances qui pourraient aider à prédire les développements économiques futurs.",
+      "step2_hebrew": "חוקרים ניתחו מערכי נתונים מורכבים כדי לזהות מגמות שיכולות לעזור לחזות התפתחויות כלכליות עתידיות.",
+      "step3_english": "Researchers studied complex data sets to find trends that could help predict future economic developments."
+    },
+    "final": "Researchers studied complex data sets to find trends that could help predict future economic developments.",
+    "metadata": {
+      "success": true,
+      "timestamp": "20251126_134420",
+      "processing_time": 3.15
+    }
+  },
+  {
+    "test_id": 40,
+    "test_case": {
+      "original_clean": "Researchers analyzed complex datasets to identify trends that could help predict future economic developments.",
+      "original_with_errors": "Reserachers analyzed complex datsaets to idsentify trends thit could help predimct fduture economic devehlopments.",
+      "target_error_rate": 0.5,
+      "actual_error_rate": 0.5,
+      "word_count": 14
+    },
+    "translations": {
+      "step1_french": "Les chercheurs ont analysé des ensembles de données complexes pour identifier les tendances qui pourraient aider à prédire les développements économiques futurs.",
+      "step2_hebrew": "חוקרים ניתחו מערכי נתונים מורכבים כדי לזהות מגמות שיכולות לעזור לחזות התפתחויות כלכליות עתידיות.",
+      "step3_english": "Researchers studied complex data sets to find trends that could help predict future economic developments."
+    },
+    "final": "Researchers studied complex data sets to find trends that could help predict future economic developments.",
+    "metadata": {
+      "success": true,
+      "timestamp": "20251126_134420",
+      "processing_time": 8.28
+    }
+  },
+  {
+    "test_id": 41,
+    "test_case": {
+      "original_clean": "The architect designed a stunning building that harmoniously blended modern aesthetics with historical architectural elements.",
+      "original_with_errors": "The architect designed a stunning building that harmoniously blended modern aesthetics with historical architectural elements.",
+      "target_error_rate": 0.0,
+      "actual_error_rate": 0.0,
+      "word_count": 15
+    },
+    "translations": {
+      "step1_french": "L'architecte a conçu un bâtiment magnifique qui mélangeait harmonieusement l'esthétique moderne avec des éléments architecturaux historiques.",
+      "step2_hebrew": "האדריכל תכנן בניין מדהים שמיזג בהרמוניה אסתטיקה מודרנית עם אלמנטים ארכיטקטוניים היסטוריים.",
+      "step3_english": "The architect designed a stunning building that harmoniously blended modern style with historical architectural elements."
+    },
+    "final": "The architect designed a stunning building that harmoniously blended modern style with historical architectural elements.",
+    "metadata": {
+      "success": true,
+      "timestamp": "20251126_134420",
+      "processing_time": 4.09
+    }
+  },
+  {
+    "test_id": 42,
+    "test_case": {
+      "original_clean": "The architect designed a stunning building that harmoniously blended modern aesthetics with historical architectural elements.",
+      "original_with_errors": "The arcxitect designed a stunning building that harmoniously blended modern aesthetics with historical architectural elements.",
+      "target_error_rate": 0.1,
+      "actual_error_rate": 0.1,
+      "word_count": 15
+    },
+    "translations": {
+      "step1_french": "L'architecte a conçu un bâtiment magnifique qui mélangeait harmonieusement l'esthétique moderne avec des éléments architecturaux historiques.",
+      "step2_hebrew": "האדריכל תכנן בניין מדהים שמיזג בהרמוניה אסתטיקה מודרנית עם אלמנטים ארכיטקטוניים היסטוריים.",
+      "step3_english": "The architect designed a stunning building that harmoniously blended modern style with historical architectural elements."
+    },
+    "final": "The architect designed a stunning building that harmoniously blended modern style with historical architectural elements.",
+    "metadata": {
+      "success": true,
+      "timestamp": "20251126_134420",
+      "processing_time": 7.22
+    }
+  },
+  {
+    "test_id": 43,
+    "test_case": {
+      "original_clean": "The architect designed a stunning building that harmoniously blended modern aesthetics with historical architectural elements.",
+      "original_with_errors": "The architect designed a stunning building thta harmoniously blenedd modrn aesthetics with historical architectural elements.",
+      "target_error_rate": 0.25,
+      "actual_error_rate": 0.25,
+      "word_count": 15
+    },
+    "translations": {
+      "step1_french": "L'architecte a conçu un bâtiment magnifique qui mélangeait harmonieusement l'esthétique moderne avec des éléments architecturaux historiques.",
+      "step2_hebrew": "האדריכל תכנן בניין מדהים שמיזג בהרמוניה אסתטיקה מודרנית עם אלמנטים ארכיטקטוניים היסטוריים.",
+      "step3_english": "The architect designed a stunning building that harmoniously blended modern style with historical architectural elements."
+    },
+    "final": "The architect designed a stunning building that harmoniously blended modern style with historical architectural elements.",
+    "metadata": {
+      "success": true,
+      "timestamp": "20251126_134420",
+      "processing_time": 2.51
+    }
+  },
+  {
+    "test_id": 44,
+    "test_case": {
+      "original_clean": "The architect designed a stunning building that harmoniously blended modern aesthetics with historical architectural elements.",
+      "original_with_errors": "The architect designed a stunning building that harmoniously blendked modern aesthteics wikth hivtorical architectural eleents.",
+      "target_error_rate": 0.375,
+      "actual_error_rate": 0.375,
+      "word_count": 15
+    },
+    "translations": {
+      "step1_french": "L'architecte a conçu un bâtiment magnifique qui mélangeait harmonieusement l'esthétique moderne avec des éléments architecturaux historiques.",
+      "step2_hebrew": "האדריכל תכנן בניין מדהים שמיזג בהרמוניה אסתטיקה מודרנית עם אלמנטים ארכיטקטוניים היסטוריים.",
+      "step3_english": "The architect designed a stunning building that harmoniously blended modern style with historical architectural elements."
+    },
+    "final": "The architect designed a stunning building that harmoniously blended modern style with historical architectural elements.",
+    "metadata": {
+      "success": true,
+      "timestamp": "20251126_134420",
+      "processing_time": 4.91
+    }
+  },
+  {
+    "test_id": 45,
+    "test_case": {
+      "original_clean": "The architect designed a stunning building that harmoniously blended modern aesthetics with historical architectural elements.",
+      "original_with_errors": "The architect densigned a stunrning building thoat harmoniously bledned modern aestqetics with hisvorical architectural elements.",
+      "target_error_rate": 0.5,
+      "actual_error_rate": 0.5,
+      "word_count": 15
+    },
+    "translations": {
+      "step1_french": "L'architecte a conçu un bâtiment magnifique qui mélangeait harmonieusement l'esthétique moderne avec des éléments architecturaux historiques.",
+      "step2_hebrew": "האדריכל תכנן בניין מדהים שמיזג בהרמוניה אסתטיקה מודרנית עם אלמנטים ארכיטקטוניים היסטוריים.",
+      "step3_english": "The architect designed a stunning building that harmoniously blended modern style with historical architectural elements."
+    },
+    "final": "The architect designed a stunning building that harmoniously blended modern style with historical architectural elements.",
+    "metadata": {
+      "success": true,
+      "timestamp": "20251126_134420",
+      "processing_time": 3.01
+    }
+  },
+  {
+    "test_id": 46,
+    "test_case": {
+      "original_clean": "Wildlife photographers traveled to remote locations to document rare species in their natural habitats.",
+      "original_with_errors": "Wildlife photographers traveled to remote locations to document rare species in their natural habitats.",
+      "target_error_rate": 0.0,
+      "actual_error_rate": 0.0,
+      "word_count": 14
+    },
+    "translations": {
+      "step1_french": "Les photographes animaliers ont voyagé vers des endroits éloignés pour documenter des espèces rares dans leurs habitats naturels.",
+      "step2_hebrew": "צלמי חיות בר נסעו למקומות מרוחקים כדי לתעד מינים נדירים בבתי הגידול הטבעיים שלהם.",
+      "step3_english": "Wildlife photographers went to remote places to document rare species in their natural environments."
+    },
+    "final": "Wildlife photographers went to remote places to document rare species in their natural environments.",
+    "metadata": {
+      "success": true,
+      "timestamp": "20251126_134420",
+      "processing_time": 5.59
+    }
+  },
+  {
+    "test_id": 47,
+    "test_case": {
+      "original_clean": "Wildlife photographers traveled to remote locations to document rare species in their natural habitats.",
+      "original_with_errors": "Wildlife photographers traveled to remote locations to document rare species in their natural habitats.",
+      "target_error_rate": 0.1,
+      "actual_error_rate": 0.1,
+      "word_count": 14
+    },
+    "translations": {
+      "step1_french": "Les photographes animaliers ont voyagé vers des endroits éloignés pour documenter des espèces rares dans leurs habitats naturels.",
+      "step2_hebrew": "צלמי חיות בר נסעו למקומות מרוחקים כדי לתעד מינים נדירים בבתי הגידול הטבעיים שלהם.",
+      "step3_english": "Wildlife photographers went to remote places to document rare species in their natural environments."
+    },
+    "final": "Wildlife photographers went to remote places to document rare species in their natural environments.",
+    "metadata": {
+      "success": true,
+      "timestamp": "20251126_134420",
+      "processing_time": 6.22
+    }
+  },
+  {
+    "test_id": 48,
+    "test_case": {
+      "original_clean": "Wildlife photographers traveled to remote locations to document rare species in their natural habitats.",
+      "original_with_errors": "Wildlife photzographers traveled to remote locations to document rare species in their naural habitats.",
+      "target_error_rate": 0.25,
+      "actual_error_rate": 0.25,
+      "word_count": 14
+    },
+    "translations": {
+      "step1_french": "Les photographes animaliers ont voyagé vers des endroits éloignés pour documenter des espèces rares dans leurs habitats naturels.",
+      "step2_hebrew": "צלמי חיות בר נסעו למקומות מרוחקים כדי לתעד מינים נדירים בבתי הגידול הטבעיים שלהם.",
+      "step3_english": "Wildlife photographers went to remote places to document rare species in their natural environments."
+    },
+    "final": "Wildlife photographers went to remote places to document rare species in their natural environments.",
+    "metadata": {
+      "success": true,
+      "timestamp": "20251126_134420",
+      "processing_time": 2.65
+    }
+  },
+  {
+    "test_id": 49,
+    "test_case": {
+      "original_clean": "Wildlife photographers traveled to remote locations to document rare species in their natural habitats.",
+      "original_with_errors": "Wildlife photogrhphers traveled to remote locations to documest rare speces in their ntural habitats.",
+      "target_error_rate": 0.375,
+      "actual_error_rate": 0.375,
+      "word_count": 14
+    },
+    "translations": {
+      "step1_french": "Les photographes animaliers ont voyagé vers des endroits éloignés pour documenter des espèces rares dans leurs habitats naturels.",
+      "step2_hebrew": "צלמי חיות בר נסעו למקומות מרוחקים כדי לתעד מינים נדירים בבתי הגידול הטבעיים שלהם.",
+      "step3_english": "Wildlife photographers went to remote places to document rare species in their natural environments."
+    },
+    "final": "Wildlife photographers went to remote places to document rare species in their natural environments.",
+    "metadata": {
+      "success": true,
+      "timestamp": "20251126_134420",
+      "processing_time": 7.86
+    }
+  },
+  {
+    "test_id": 50,
+    "test_case": {
+      "original_clean": "Wildlife photographers traveled to remote locations to document rare species in their natural habitats.",
+      "original_with_errors": "Wildlife phozographers travelqd to remote locations to docutment rare species in their ntural habittas.",
+      "target_error_rate": 0.5,
+      "actual_error_rate": 0.5,
+      "word_count": 14
+    },
+    "translations": {
+      "step1_french": "Les photographes animaliers ont voyagé vers des endroits éloignés pour documenter des espèces rares dans leurs habitats naturels.",
+      "step2_hebrew": "צלמי חיות בר נסעו למקומות מרוחקים כדי לתעד מינים נדירים בבתי הגידול הטבעיים שלהם.",
+      "step3_english": "Wildlife photographers went to remote places to document rare species in their natural environments."
+    },
+    "final": "Wildlife photographers went to remote places to document rare species in their natural environments.",
+    "metadata": {
+      "success": true,
+      "timestamp": "20251126_134420",
+      "processing_time": 7.39
+    }
+  },
+  {
+    "test_id": 51,
+    "test_case": {
+      "original_clean": "The marathon runner trained every single day for six months, gradually building endurance and speed.",
+      "original_with_errors": "The marathon runner trained every single day for six months, gradually building endurance and speed.",
+      "target_error_rate": 0.0,
+      "actual_error_rate": 0.0,
+      "word_count": 15
+    },
+    "translations": {
+      "step1_french": "Le coureur de marathon s'est entraîné tous les jours pendant six mois, développant progressivement l'endurance et la vitesse.",
+      "step2_hebrew": "רץ המרתון התאמן כל יום במשך שישה חודשים, בנה בהדרגה סיבולת ומהירות.",
+      "step3_english": "The marathon runner practiced every day for six months, gradually building stamina and speed."
+    },
+    "final": "The marathon runner practiced every day for six months, gradually building stamina and speed.",
+    "metadata": {
+      "success": true,
+      "timestamp": "20251126_134420",
+      "processing_time": 7.85
+    }
+  },
+  {
+    "test_id": 52,
+    "test_case": {
+      "original_clean": "The marathon runner trained every single day for six months, gradually building endurance and speed.",
+      "original_with_errors": "The marathon runner trained every single day for six months, gradually building endurance and speed.",
+      "target_error_rate": 0.1,
+      "actual_error_rate": 0.1,
+      "word_count": 15
+    },
+    "translations": {
+      "step1_french": "Le coureur de marathon s'est entraîné tous les jours pendant six mois, développant progressivement l'endurance et la vitesse.",
+      "step2_hebrew": "רץ המרתון התאמן כל יום במשך שישה חודשים, בנה בהדרגה סיבולת ומהירות.",
+      "step3_english": "The marathon runner practiced every day for six months, gradually building stamina and speed."
+    },
+    "final": "The marathon runner practiced every day for six months, gradually building stamina and speed.",
+    "metadata": {
+      "success": true,
+      "timestamp": "20251126_134420",
+      "processing_time": 7.48
+    }
+  },
+  {
+    "test_id": 53,
+    "test_case": {
+      "original_clean": "The marathon runner trained every single day for six months, gradually building endurance and speed.",
+      "original_with_errors": "The marathon runnir trained every single day for six months, gradually building endurance and speed.",
+      "target_error_rate": 0.25,
+      "actual_error_rate": 0.25,
+      "word_count": 15
+    },
+    "translations": {
+      "step1_french": "Le coureur de marathon s'est entraîné tous les jours pendant six mois, développant progressivement l'endurance et la vitesse.",
+      "step2_hebrew": "רץ המרתון התאמן כל יום במשך שישה חודשים, בנה בהדרגה סיבולת ומהירות.",
+      "step3_english": "The marathon runner practiced every day for six months, gradually building stamina and speed."
+    },
+    "final": "The marathon runner practiced every day for six months, gradually building stamina and speed.",
+    "metadata": {
+      "success": true,
+      "timestamp": "20251126_134420",
+      "processing_time": 7.01
+    }
+  },
+  {
+    "test_id": 54,
+    "test_case": {
+      "original_clean": "The marathon runner trained every single day for six months, gradually building endurance and speed.",
+      "original_with_errors": "The marathon runner trained ewery single day for six months, graually building endurance and speed.",
+      "target_error_rate": 0.375,
+      "actual_error_rate": 0.375,
+      "word_count": 15
+    },
+    "translations": {
+      "step1_french": "Le coureur de marathon s'est entraîné tous les jours pendant six mois, développant progressivement l'endurance et la vitesse.",
+      "step2_hebrew": "רץ המרתון התאמן כל יום במשך שישה חודשים, בנה בהדרגה סיבולת ומהירות.",
+      "step3_english": "The marathon runner practiced every day for six months, gradually building stamina and speed."
+    },
+    "final": "The marathon runner practiced every day for six months, gradually building stamina and speed.",
+    "metadata": {
+      "success": true,
+      "timestamp": "20251126_134420",
+      "processing_time": 4.21
+    }
+  },
+  {
+    "test_id": 55,
+    "test_case": {
+      "original_clean": "The marathon runner trained every single day for six months, gradually building endurance and speed.",
+      "original_with_errors": "The marahton runrer trained evry sigle day for six montbs, gradually building endurance and speed.",
+      "target_error_rate": 0.5,
+      "actual_error_rate": 0.5,
+      "word_count": 15
+    },
+    "translations": {
+      "step1_french": "Le coureur de marathon s'est entraîné tous les jours pendant six mois, développant progressivement l'endurance et la vitesse.",
+      "step2_hebrew": "רץ המרתון התאמן כל יום במשך שישה חודשים, בנה בהדרגה סיבולת ומהירות.",
+      "step3_english": "The marathon runner practiced every day for six months, gradually building stamina and speed."
+    },
+    "final": "The marathon runner practiced every day for six months, gradually building stamina and speed.",
+    "metadata": {
+      "success": true,
+      "timestamp": "20251126_134420",
+      "processing_time": 3.74
+    }
+  },
+  {
+    "test_id": 56,
+    "test_case": {
+      "original_clean": "Historians uncovered fascinating evidence that changed our understanding of ancient civilizations and their achievements.",
+      "original_with_errors": "Historians uncovered fascinating evidence that changed our understanding of ancient civilizations and their achievements.",
+      "target_error_rate": 0.0,
+      "actual_error_rate": 0.0,
+      "word_count": 14
+    },
+    "translations": {
+      "step1_french": "Les historiens ont découvert des preuves fascinantes qui ont changé notre compréhension des civilisations anciennes et de leurs réalisations.",
+      "step2_hebrew": "היסטוריונים חשפו ראיות מרתקות ששינו את הבנתנו לגבי תרבויות עתיקות והישגיהן.",
+      "step3_english": "Historians found fascinating evidence that changed our understanding of ancient civilizations and their accomplishments."
+    },
+    "final": "Historians found fascinating evidence that changed our understanding of ancient civilizations and their accomplishments.",
+    "metadata": {
+      "success": true,
+      "timestamp": "20251126_134420",
+      "processing_time": 5.02
+    }
+  },
+  {
+    "test_id": 57,
+    "test_case": {
+      "original_clean": "Historians uncovered fascinating evidence that changed our understanding of ancient civilizations and their achievements.",
+      "original_with_errors": "Historians uncovered fascinating evidence that changed our understanding of ancient civilizations and theri achievements.",
+      "target_error_rate": 0.1,
+      "actual_error_rate": 0.1,
+      "word_count": 14
+    },
+    "translations": {
+      "step1_french": "Les historiens ont découvert des preuves fascinantes qui ont changé notre compréhension des civilisations anciennes et de leurs réalisations.",
+      "step2_hebrew": "היסטוריונים חשפו ראיות מרתקות ששינו את הבנתנו לגבי תרבויות עתיקות והישגיהן.",
+      "step3_english": "Historians found fascinating evidence that changed our understanding of ancient civilizations and their accomplishments."
+    },
+    "final": "Historians found fascinating evidence that changed our understanding of ancient civilizations and their accomplishments.",
+    "metadata": {
+      "success": true,
+      "timestamp": "20251126_134420",
+      "processing_time": 4.78
+    }
+  },
+  {
+    "test_id": 58,
+    "test_case": {
+      "original_clean": "Historians uncovered fascinating evidence that changed our understanding of ancient civilizations and their achievements.",
+      "original_with_errors": "Historirns uncovered fascinating evidence tht chaned our understanding of ancient civilizations and their achievements.",
+      "target_error_rate": 0.25,
+      "actual_error_rate": 0.25,
+      "word_count": 14
+    },
+    "translations": {
+      "step1_french": "Les historiens ont découvert des preuves fascinantes qui ont changé notre compréhension des civilisations anciennes et de leurs réalisations.",
+      "step2_hebrew": "היסטוריונים חשפו ראיות מרתקות ששינו את הבנתנו לגבי תרבויות עתיקות והישגיהן.",
+      "step3_english": "Historians found fascinating evidence that changed our understanding of ancient civilizations and their accomplishments."
+    },
+    "final": "Historians found fascinating evidence that changed our understanding of ancient civilizations and their accomplishments.",
+    "metadata": {
+      "success": true,
+      "timestamp": "20251126_134420",
+      "processing_time": 5.12
+    }
+  },
+  {
+    "test_id": 59,
+    "test_case": {
+      "original_clean": "Historians uncovered fascinating evidence that changed our understanding of ancient civilizations and their achievements.",
+      "original_with_errors": "Historias uncovered fascinating evidence that changd our understanding of ancient civiliztaions and tehir achievements.",
+      "target_error_rate": 0.375,
+      "actual_error_rate": 0.375,
+      "word_count": 14
+    },
+    "translations": {
+      "step1_french": "Les historiens ont découvert des preuves fascinantes qui ont changé notre compréhension des civilisations anciennes et de leurs réalisations.",
+      "step2_hebrew": "היסטוריונים חשפו ראיות מרתקות ששינו את הבנתנו לגבי תרבויות עתיקות והישגיהן.",
+      "step3_english": "Historians found fascinating evidence that changed our understanding of ancient civilizations and their accomplishments."
+    },
+    "final": "Historians found fascinating evidence that changed our understanding of ancient civilizations and their accomplishments.",
+    "metadata": {
+      "success": true,
+      "timestamp": "20251126_134420",
+      "processing_time": 6.36
+    }
+  },
+  {
+    "test_id": 60,
+    "test_case": {
+      "original_clean": "Historians uncovered fascinating evidence that changed our understanding of ancient civilizations and their achievements.",
+      "original_with_errors": "Histocians uncovered fascinatng evidence txat chagned our undersytanding of ancient civilizations and their achieyements.",
+      "target_error_rate": 0.5,
+      "actual_error_rate": 0.5,
+      "word_count": 14
+    },
+    "translations": {
+      "step1_french": "Les historiens ont découvert des preuves fascinantes qui ont changé notre compréhension des civilisations anciennes et de leurs réalisations.",
+      "step2_hebrew": "היסטוריונים חשפו ראיות מרתקות ששינו את הבנתנו לגבי תרבויות עתיקות והישגיהן.",
+      "step3_english": "Historians found fascinating evidence that changed our understanding of ancient civilizations and their accomplishments."
+    },
+    "final": "Historians found fascinating evidence that changed our understanding of ancient civilizations and their accomplishments.",
+    "metadata": {
+      "success": true,
+      "timestamp": "20251126_134420",
+      "processing_time": 3.85
+    }
+  }
+]

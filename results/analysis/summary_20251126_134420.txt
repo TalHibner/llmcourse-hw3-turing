@@ -1,0 +1,62 @@
+============================================================
+ANALYSIS SUMMARY - Mock Data for Demonstration
+============================================================
+
+Generated: 20251126_134420
+Total Test Cases: 60
+Mean Distance: 0.1855
+Std Distance: 0.1460
+Min Distance: 0.0100
+Max Distance: 0.4498
+Correlation (error_rate vs distance): 0.9790
+
+============================================================
+BY ERROR RATE
+============================================================
+
+
+Error Rate: 0.0%
+  Count: 12
+  Mean: 0.0204
+  Std: 0.0076
+  Min: 0.0100
+  Max: 0.0347
+
+Error Rate: 10.0%
+  Count: 12
+  Mean: 0.0493
+  Std: 0.0094
+  Min: 0.0385
+  Max: 0.0685
+
+Error Rate: 25.0%
+  Count: 12
+  Mean: 0.1807
+  Std: 0.0158
+  Min: 0.1408
+  Max: 0.2011
+
+Error Rate: 37.5%
+  Count: 12
+  Mean: 0.2681
+  Std: 0.0296
+  Min: 0.2237
+  Max: 0.3268
+
+Error Rate: 50.0%
+  Count: 12
+  Mean: 0.4092
+  Std: 0.0319
+  Min: 0.3660
+  Max: 0.4498
+
+============================================================
+KEY FINDINGS
+============================================================
+
+1. Non-linear relationship between error rate and semantic drift
+2. LLMs show strong resilience to low error rates (<15%)
+3. Sharp increase in semantic distance above 25-30% error rate
+4. Strong positive correlation demonstrates error impact
+
+Note: This is MOCK DATA for demonstration purposes.

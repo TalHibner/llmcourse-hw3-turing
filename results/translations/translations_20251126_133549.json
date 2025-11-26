@@ -1,0 +1,422 @@
+[
+  {
+    "test_id": 1,
+    "error": "Agent agent1 failed after 3 attempts: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CVWS35HDunDREwryjYspP'}",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 2,
+    "error": "Agent agent1 failed after 3 attempts: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CVWS3LCQMeyc71o55XnUv'}",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 3,
+    "error": "Agent agent1 failed after 3 attempts: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CVWS3aiH4ywUsBwjG5ZYz'}",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 4,
+    "error": "Agent agent1 failed after 3 attempts: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CVWS3qdDVoHvQWqdRtDJu'}",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 5,
+    "error": "Agent agent1 failed after 3 attempts: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CVWS46E3fyGwpakwK6Ebv'}",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 6,
+    "error": "Agent agent1 failed after 3 attempts: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CVWS4MP7savA4bviSC2Z1'}",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 7,
+    "error": "Agent agent1 failed after 3 attempts: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CVWS4cD6f2poetpzZbXAm'}",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 8,
+    "error": "Agent agent1 failed after 3 attempts: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CVWS4rvNutKLzrnpqgA7c'}",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 9,
+    "error": "Agent agent1 failed after 3 attempts: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CVWS58Dt7ypMRgdXisZE2'}",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 10,
+    "error": "Agent agent1 failed after 3 attempts: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CVWS5NU8bTKpdMPFsEs21'}",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 11,
+    "error": "Agent agent1 failed after 3 attempts: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CVWS5cx2DfZ3D9kXaa8oz'}",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 12,
+    "error": "Agent agent1 failed after 3 attempts: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CVWS5sPBkcvyjMjDr4f8U'}",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 13,
+    "error": "Agent agent1 failed after 3 attempts: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CVWS67x3Hbz4CrmB1is6q'}",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 14,
+    "error": "Agent agent1 failed after 3 attempts: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CVWS6P67eNvixFzSRqPGy'}",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 15,
+    "error": "Agent agent1 failed after 3 attempts: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CVWS6eAj8qcHzCqXo5Nwp'}",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 16,
+    "error": "Agent agent1 failed after 3 attempts: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CVWS6tp3E15DE8p3vwV75'}",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 17,
+    "error": "Agent agent1 failed after 3 attempts: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CVWS798WNRspGQQaGPbfm'}",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 18,
+    "error": "Agent agent1 failed after 3 attempts: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CVWS7RGs6EtbFJ3vXUYrL'}",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 19,
+    "error": "Agent agent1 failed after 3 attempts: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CVWS7feYpwA6Uz9jkjiZP'}",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 20,
+    "error": "Agent agent1 failed after 3 attempts: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CVWS7vBAjYfV76JzzmH1M'}",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 21,
+    "error": "Agent agent1 failed after 3 attempts: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CVWS8BQTUjUscSzmkjR25'}",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 22,
+    "error": "Agent agent1 failed after 3 attempts: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CVWS8SKe7jRDG7YTABHx7'}",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 23,
+    "error": "Agent agent1 failed after 3 attempts: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CVWS8h5A98AFY3S6bsMir'}",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 24,
+    "error": "Agent agent1 failed after 3 attempts: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CVWS8xJC3wEYsJiEB1A6a'}",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 25,
+    "error": "Agent agent1 failed after 3 attempts: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CVWS9D9fHni2AQF7sExcr'}",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 26,
+    "error": "Agent agent1 failed after 3 attempts: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CVWS9TuRN7N3qyLdD1RXs'}",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 27,
+    "error": "Agent agent1 failed after 3 attempts: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CVWS9iuZrmv8PfRGfJsGt'}",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 28,
+    "error": "Agent agent1 failed after 3 attempts: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CVWS9yLyjBgVpGbhhE6RB'}",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 29,
+    "error": "Agent agent1 failed after 3 attempts: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CVWSAENcNekTMEqRxbj9E'}",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 30,
+    "error": "Agent agent1 failed after 3 attempts: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CVWSAVKmsp29CXcs8EHLc'}",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 31,
+    "error": "Agent agent1 failed after 3 attempts: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CVWSAk34TEUdMuBA7voNy'}",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 32,
+    "error": "Agent agent1 failed after 3 attempts: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CVWSAzvFkPXiuBpc44LrX'}",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 33,
+    "error": "Agent agent1 failed after 3 attempts: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CVWSBFpwvALSoTYtswZee'}",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 34,
+    "error": "Agent agent1 failed after 3 attempts: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CVWSBWqqRZ1bLkBYveyUt'}",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 35,
+    "error": "Agent agent1 failed after 3 attempts: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CVWSBmSv3SwWHkPquxahR'}",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 36,
+    "error": "Agent agent1 failed after 3 attempts: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CVWSC25VNvVDmFSMhtFSf'}",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 37,
+    "error": "Agent agent1 failed after 3 attempts: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CVWSCGkY6zcSPhqHNakxy'}",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 38,
+    "error": "Agent agent1 failed after 3 attempts: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CVWSCXejXEt1rW3sUys3B'}",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 39,
+    "error": "Agent agent1 failed after 3 attempts: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CVWSCnBbmWXu8UzCtqpvw'}",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 40,
+    "error": "Agent agent1 failed after 3 attempts: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CVWSD2ixgxZBtpdjS7dzP'}",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 41,
+    "error": "Agent agent1 failed after 3 attempts: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CVWSDHHK4SKLKGkrVxYsd'}",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 42,
+    "error": "Agent agent1 failed after 3 attempts: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CVWSDYFy1yip22tfUyPmg'}",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 43,
+    "error": "Agent agent1 failed after 3 attempts: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CVWSDoVW3JXtP32XNLBxA'}",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 44,
+    "error": "Agent agent1 failed after 3 attempts: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CVWSE4SfqTXh3FrM9mCVP'}",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 45,
+    "error": "Agent agent1 failed after 3 attempts: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CVWSEJtaSkT3wxqPt7vdr'}",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 46,
+    "error": "Agent agent1 failed after 3 attempts: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CVWSEZXtgEoY7pLHZw4N2'}",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 47,
+    "error": "Agent agent1 failed after 3 attempts: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CVWSEoyof5gw1bX5dUDiS'}",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 48,
+    "error": "Agent agent1 failed after 3 attempts: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CVWSF4QiR5NvuyGJPWASW'}",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 49,
+    "error": "Agent agent1 failed after 3 attempts: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CVWSFJq8isdX3XkGCQEZy'}",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 50,
+    "error": "Agent agent1 failed after 3 attempts: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CVWSFZPk1ZUbej8zYRfez'}",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 51,
+    "error": "Agent agent1 failed after 3 attempts: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CVWSFou7gTc49hNL4rAPo'}",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 52,
+    "error": "Agent agent1 failed after 3 attempts: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CVWSG56fbvDejRPnHHBif'}",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 53,
+    "error": "Agent agent1 failed after 3 attempts: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CVWSGKX6A6igm4YmpMAyR'}",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 54,
+    "error": "Agent agent1 failed after 3 attempts: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CVWSGaEsAj5mkhmARDTwk'}",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 55,
+    "error": "Agent agent1 failed after 3 attempts: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CVWSGpnitNVRo5aGwmMkX'}",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 56,
+    "error": "Agent agent1 failed after 3 attempts: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CVWSH5up7nyrjMRkewMrM'}",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 57,
+    "error": "Agent agent1 failed after 3 attempts: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CVWSHMFJEMTS3FpQfLkjb'}",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 58,
+    "error": "Agent agent1 failed after 3 attempts: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CVWSHd6J8ocaqiCYZMZ3d'}",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 59,
+    "error": "Agent agent1 failed after 3 attempts: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CVWSHsicTjjNncdt7s9aM'}",
+    "metadata": {
+      "success": false
+    }
+  },
+  {
+    "test_id": 60,
+    "error": "Agent agent1 failed after 3 attempts: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011CVWSJ8DVfoT5x6Jb3AvsV'}",
+    "metadata": {
+      "success": false
+    }
+  }
+]
